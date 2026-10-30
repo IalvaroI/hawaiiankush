@@ -133,3 +133,7 @@ Never paste your API key into a chat, an email or a support ticket.
 - **To try it with sample products:** leave `VITE_SHOP_MODE=demo` in `.env`. No Sweed account is needed.
 - **For developers:** `npm run dev` starts a local copy and `npm test` runs every test against a fake store.
   `STRUCTURE_MAP.md` explains the folders.
+
+## License
+
+MIT. See `LICENSE`.

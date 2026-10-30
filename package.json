@@ -30,5 +30,6 @@
   },
   "engines": {
     "node": ">=20.12"
-  }
+  },
+  "license": "MIT"
 }
