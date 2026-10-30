@@ -1,0 +1,9 @@
+.git
+node_modules
+dist
+dist-test
+test-results
+playwright-report
+# Never copy secrets into the image; the container reads them from its environment.
+.env
+.env.*

@@ -1,0 +1,23 @@
+# Runs the storefront from the local .env (copy .env.example to .env first). Docker Compose reads .env itself, so the
+# build-time values below come from it; the running container gets every value in it through env_file.
+# Run exactly one container: sign-in rate limits and caches live in process memory.
+services:
+  storefront:
+    build:
+      context: .
+      args:
+        STORE_ID: ${STORE_ID}
+        VITE_SHOP_MODE: ${VITE_SHOP_MODE:-live}
+        VITE_SALE_TYPE: ${VITE_SALE_TYPE:-recreational}
+        VITE_GTM_ID: ${VITE_GTM_ID:-}
+        VITE_STORE_TIME_ZONE: ${VITE_STORE_TIME_ZONE:-}
+        BASE_PATH: ${BASE_PATH:-/}
+    env_file: .env
+    environment:
+      # Inside the container the server listens on every interface, port 3000; only the host port below is published.
+      HOST: 0.0.0.0
+      PORT: 3000
+      DIST_DIR: /app/dist
+    ports:
+      - "127.0.0.1:${PORT:-3000}:3000"
+    restart: unless-stopped

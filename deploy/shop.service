@@ -1,0 +1,26 @@
+# systemd unit for the storefront. Install as /etc/systemd/system/shop.service, then:
+#   systemctl daemon-reload && systemctl enable shop
+# The first run of scripts/deploy.sh starts it. Check that /usr/bin/node is where `which node` points.
+# Run exactly one instance: the sign-in rate limits and caches live in process memory.
+[Unit]
+Description=Hawaiian Kush storefront
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=shop
+Group=shop
+WorkingDirectory=/srv/shop/current
+EnvironmentFile=/srv/shop/shared/.env
+Environment=DIST_DIR=/srv/shop/current/dist
+ExecStart=/usr/bin/node server/index.js
+Restart=on-failure
+RestartSec=2
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+ReadOnlyPaths=/srv/shop
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,43 @@
+{
+  "store": {
+    "id": "demostore0000001",
+    "name": "Hawaiian Kush",
+    "url": "https://shop.example.com/maui",
+    "description": "Two Brothers in Maui with a dream.",
+    "location": {
+      "coordinates": {
+        "latitude": 21.6415052,
+        "longitude": -158.0671269
+      },
+      "region": {
+        "id": "6r4owra8muuzosl27",
+        "name": "Hawaii"
+      },
+      "city": {
+        "id": "dllzczkuqokes943ky",
+        "name": "Kahuku"
+      }
+    },
+    "saleTypes": [
+      "medical",
+      "recreational"
+    ],
+    "contacts": {
+      "address": "Waimea Bay, Hawaii 96712, USA",
+      "email": "store@example.com",
+      "phone": "10000000000"
+    },
+    "settings": {
+      "images": {
+        "logo": "https://media.example.com/store/demo/1766153446_469d1926-7016-436f-bd4b-d8a832359951.png",
+        "favicon": "https://media.example.com/store/demo/1766153447_37e81dce-fff8-4363-8de0-128ef9d144fb.ico",
+        "png16X16": "https://media.example.com/store/demo/1766153447_873128ee-9e59-45c1-872d-4a6e9ff84686.png",
+        "png32X32": "https://media.example.com/store/demo/1766153447_30c12790-6c02-4215-9316-6ce4e35f725a.png",
+        "png180X180": "https://media.example.com/store/demo/1766153446_cca2fc26-e1a8-4c77-84db-928b329f131c.png",
+        "png192X192": "https://media.example.com/store/demo/1766153446_2e834264-773d-4749-be5a-8a256f5c60dc.png",
+        "png512X512": "https://media.example.com/store/demo/1766153446_469d1926-7016-436f-bd4b-d8a832359951.png"
+      },
+      "timeZoneName": "US Eastern Standard Time"
+    }
+  }
+}

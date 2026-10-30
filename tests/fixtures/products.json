@@ -1,0 +1,5735 @@
+{
+  "items": [
+    {
+      "id": "9krkby67tmbkpl3ca4",
+      "name": "Pineapple Express",
+      "description": "Cannabis ipsum dolor sit amet, sativa et indica adipiscing elit. Terpenes aroma magna, cannabinoid effect purus. Trichomes lacinia nisl, hybrid placerat elit, sed vaporizer, harvest, et kush volutpat.",
+      "attributeIds": {
+        "categoryId": "k4itylpt08lsofnlvc",
+        "brandId": "nerkwalazk1of1c9er",
+        "strainId": "ez34x3walx7fhsbo8r",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "j64p7curncuy0v1ayfh",
+          "purchaseKey": "n27kcwl02zk1of1c9er4c",
+          "name": "Pineapple Express",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 98
+          },
+          "prices": {
+            "base": 30,
+            "discounted": 27
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/hybrid-pineapple-express-35g-3996621"
+          }
+        },
+        {
+          "id": "sty7q5myn8qudwtxwcd",
+          "purchaseKey": "b3q015wrwantwpb9yapkz",
+          "name": "Pineapple Express",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 40,
+            "discounted": 36
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/hybrid-pineapple-express-1g-3996622"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlb5qi1lwwqtnucs9j",
+      "name": "Pineapple Express",
+      "description": "Cannabis ipsum dolor sit amet, sativa et indica adipiscing elit. Terpenes aroma magna, cannabinoid effect purus. Trichomes lacinia nisl, hybrid placerat elit, sed vaporizer, harvest, et kush volutpat.",
+      "attributeIds": {
+        "categoryId": "aydwlhwawpdng1o0cc",
+        "brandId": "nerkwalazk1of1c9er",
+        "strainId": "ez34x3walx7fhsbo8r",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "ynvgktxxmkl3fumh1qr",
+          "purchaseKey": "qywxuitju5752k7bdklba",
+          "name": "Pineapple Express",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 5,
+            "discounted": 4.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/pre-rolls-40497/hybrid-pineapple-express-1g-3996630"
+          }
+        },
+        {
+          "id": "6bmoz8r348muuzosl27",
+          "purchaseKey": "26ij2q6d2lywrdeq5kems",
+          "name": "Pineapple Express",
+          "package": {
+            "itemSize": {
+              "value": 2,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 10,
+            "discounted": 9
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/pre-rolls-40497/hybrid-pineapple-express-2g-3996631"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pk8u4vie8v0qk69548",
+      "name": "Zippo",
+      "description": "Cannabis ipsum dolor sit amet, sativa et indica adipiscing elit. Terpenes aroma magna, cannabinoid effect purus. Trichomes lacinia nisl, hybrid placerat elit, sed vaporizer, harvest, et kush volutpat.",
+      "attributeIds": {
+        "categoryId": "td5exd4spl6nplprp6",
+        "brandId": "nerkwalazk1of1c9er",
+        "productTypeId": "h45na8v08zvawm7z3d"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "njjkcwl02zk1of1c9er",
+          "purchaseKey": "ynngktxxmkl3fumh1qry3",
+          "name": "Zippo Lighter",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 5,
+            "discounted": 4.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/zippo-lighter-blue-3996632"
+          }
+        },
+        {
+          "id": "p9r8xbvic8v0qk69548",
+          "purchaseKey": "kp8t90p8s08lsofnlvcxd",
+          "name": "Zippo Lighter",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 109
+          },
+          "prices": {
+            "base": 5,
+            "discounted": 4.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/zippo-lighter-each-3996633"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lziz4klq24ep32eh73",
+      "name": "Gift Card",
+      "description": "Cannabis ipsum dolor sit amet, sativa et indica adipiscing elit. Terpenes aroma magna, cannabinoid effect purus. Trichomes lacinia nisl, hybrid placerat elit, sed vaporizer, harvest, et kush volutpat.",
+      "attributeIds": {
+        "categoryId": "0czalrkqys4qsdturc"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "zio2m0j2i9510wipke7",
+          "purchaseKey": "vzjh0qde45b77zgdxhp1q",
+          "name": "Gift Card",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 150
+          },
+          "prices": {
+            "base": 50
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/gift-card-40499/gift-card-50-3996634"
+          }
+        },
+        {
+          "id": "1qbl5cwm4zgkqhp5a4e",
+          "purchaseKey": "416doaln3jk8ipj6z9igo",
+          "name": "Gift Card",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 150
+          },
+          "prices": {
+            "base": 100
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/gift-card-40499/gift-card-100-3996635"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p6e8brvif8v0qk69548",
+      "name": "Ohana Gelato Pre-Ground",
+      "description": "A sativa with notes of Pine, Sea Salt. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "xw1m5ncjrmwr9tlkxn",
+        "brandId": "j6mp4uqcuy0v1ayfh",
+        "strainId": "v47hqadq5b77zgdxhp",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "af1whwt7wpdng1o0cc",
+          "purchaseKey": "9a4rzy6ktmbkpl3ca46k",
+          "name": "Ohana Gelato Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 22,
+            "discounted": 19.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-sativa-ohana-gelato-pre-ground-flower-35g-4461287"
+          }
+        },
+        {
+          "id": "imt653vjwbske8uoi1",
+          "purchaseKey": "zi32pj2m9510wipke75n",
+          "name": "Ohana Gelato Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 44,
+            "discounted": 39.6
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-sativa-ohana-gelato-pre-ground-flower-7g-4461288"
+          }
+        },
+        {
+          "id": "euy48womlx7fhsbo8r",
+          "purchaseKey": "seq76myc8qudwtxwcdpw",
+          "name": "Ohana Gelato Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 88,
+            "discounted": 79.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-sativa-ohana-gelato-pre-ground-flower-14g-4461289"
+          }
+        }
+      ]
+    },
+    {
+      "id": "z1k201j2y9510wipke7",
+      "name": "Mauna Loa Kush Shake",
+      "description": "A sativa with notes of Ginger, Lilikoi. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "zuv22mjs9510wipke7",
+        "brandId": "n26kbldzk1of1c9er",
+        "strainId": "iql62o36wbske8uoi1",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "8rnunv48bj7d2t1aoy",
+          "purchaseKey": "t8yed4iapl6nplprp6sa",
+          "name": "Mauna Loa Kush Shake Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 17,
+            "discounted": 15.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/shake-sativa-mauna-loa-kush-shake-flower-35g-4461290"
+          }
+        },
+        {
+          "id": "vzahpde25b77zgdxhp",
+          "purchaseKey": "wv9crkcgigorxvd0bjx8",
+          "name": "Mauna Loa Kush Shake Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 35,
+            "discounted": 31.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/shake-sativa-mauna-loa-kush-shake-flower-7g-4461291"
+          }
+        },
+        {
+          "id": "p9k8lvi28v0qk69548",
+          "purchaseKey": "kpgtlp8h08lsofnlvcxd",
+          "name": "Mauna Loa Kush Shake Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 69,
+            "discounted": 62.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/shake-sativa-mauna-loa-kush-shake-flower-14g-4461292"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gha3hj4z05xe9h6k6hz",
+      "name": "Waikiki Wave Pre-Ground",
+      "description": "A indica with notes of Coconut, Guava. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "xw1m5ncjrmwr9tlkxn",
+        "brandId": "j6mp4uqcuy0v1ayfh",
+        "strainId": "qwqxiftp5752k7bdkl",
+        "qualityLineId": "euh4u4wwlx7fhsbo8r",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "3tbsw9xs9v97p5ig5e",
+          "purchaseKey": "m36bti1twwqtnucs9jkd",
+          "name": "Waikiki Wave Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 22,
+            "discounted": 19.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-indica-waikiki-wave-pre-ground-flower-35g-4461293"
+          }
+        },
+        {
+          "id": "1qzlxwmpzgkqhp5a4e",
+          "purchaseKey": "41vdtln2jk8ipj6z9igo",
+          "name": "Waikiki Wave Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 44,
+            "discounted": 39.6
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-indica-waikiki-wave-pre-ground-flower-7g-4461294"
+          }
+        },
+        {
+          "id": "fdyv6tnjkxrkg2jxqk",
+          "purchaseKey": "afqwhwt7wpdng1o0ccv1",
+          "name": "Waikiki Wave Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 88,
+            "discounted": 79.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-indica-waikiki-wave-pre-ground-flower-14g-4461295"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fe3vpitnmkxrkg2jxqk",
+      "name": "Ohana Gelato Trim",
+      "description": "A sativa with notes of Plumeria, Sweet Citrus. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "c7qyre8wyxevp1hykb",
+        "brandId": "qcnxptk5752k7bdkl",
+        "strainId": "v47hqadq5b77zgdxhp",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "rwi5ztjqnfcxdgzqf3",
+          "purchaseKey": "8rzunv48bj7d2t1aoywy",
+          "name": "Ohana Gelato Trim Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 13,
+            "discounted": 11.7
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/trim-sativa-ohana-gelato-trim-flower-35g-4461296"
+          }
+        },
+        {
+          "id": "6b1ohr308muuzosl27",
+          "purchaseKey": "264jd6dqlywrdeq5kems",
+          "name": "Ohana Gelato Trim Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 25,
+            "discounted": 22.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/trim-sativa-ohana-gelato-trim-flower-7g-4461297"
+          }
+        },
+        {
+          "id": "t8ned4iapl6nplprp6",
+          "purchaseKey": "3tysw9xs9v97p5ig5e7g",
+          "name": "Ohana Gelato Trim Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 50,
+            "discounted": 45
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/trim-sativa-ohana-gelato-trim-flower-14g-4461298"
+          }
+        }
+      ]
+    },
+    {
+      "id": "myqblfi1qwwqtnucs9j",
+      "name": "Koa Gold Pre-Ground",
+      "description": "A sativa with notes of Papaya, Honey. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "xw1m5ncjrmwr9tlkxn",
+        "brandId": "tp5e847pl6nplprp6",
+        "strainId": "4uzdahl6jk8ipj6z9i",
+        "qualityLineId": "euh4u4wwlx7fhsbo8r",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "zid2pj2m9510wipke7",
+          "purchaseKey": "vzfhpde25b77zgdxhp1q",
+          "name": "Koa Gold Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 22,
+            "discounted": 19.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-sativa-koa-gold-pre-ground-flower-35g-4461299"
+          }
+        },
+        {
+          "id": "ses76myc8qudwtxwcd",
+          "purchaseKey": "bsb0pwr8antwpb9yapkz",
+          "name": "Koa Gold Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 44,
+            "discounted": 39.6
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-sativa-koa-gold-pre-ground-flower-7g-4461300"
+          }
+        },
+        {
+          "id": "uql1ly8m03b5ubcka6",
+          "purchaseKey": "e1d48womlx7fhsbo8rt6",
+          "name": "Koa Gold Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 88,
+            "discounted": 79.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-sativa-koa-gold-pre-ground-flower-14g-4461301"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tjkesx4igpl6nplprp6",
+      "name": "Kona Kush Breeze Mixed Buds",
+      "description": "A hybrid with notes of Honey, Pineapple. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "0gra7mkqys4qsdturc",
+        "brandId": "n26kbldzk1of1c9er",
+        "strainId": "4u2dahl6jk8ipj6z9i",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "9wqrzy6ktmbkpl3ca4",
+          "purchaseKey": "pr18lvi28v0qk695481z",
+          "name": "Kona Kush Breeze Mixed Buds Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 28,
+            "discounted": 25.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/mixed-buds-hybrid-kona-kush-breeze-mixed-buds-flower-35g-4461302"
+          }
+        },
+        {
+          "id": "k8dtlp8h08lsofnlvc",
+          "purchaseKey": "gtf3a4z65xe9h6k6hz3m",
+          "name": "Kona Kush Breeze Mixed Buds Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 57,
+            "discounted": 51.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/mixed-buds-hybrid-kona-kush-breeze-mixed-buds-flower-7g-4461303"
+          }
+        },
+        {
+          "id": "k8ztlp8h08lsofnlvc",
+          "purchaseKey": "gtv3a4z65xe9h6k6hz3m",
+          "name": "Kona Kush Breeze Mixed Buds Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 113,
+            "discounted": 101.7
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/mixed-buds-hybrid-kona-kush-breeze-mixed-buds-flower-14g-4461304"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jijpcluricuy0v1ayfh",
+      "name": "Koa Gold Infused Bud",
+      "description": "A sativa with notes of Sea Salt, Pine. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "uoz167yq03b5ubcka6",
+        "brandId": "0sza9kpys4qsdturc",
+        "strainId": "4uzdahl6jk8ipj6z9i",
+        "qualityLineId": "euh4u4wwlx7fhsbo8r",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "b7g0pwr8antwpb9yap",
+          "purchaseKey": "60xohr308muuzosl27r0",
+          "name": "Koa Gold Infused Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 47,
+            "discounted": 42.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/infused-sativa-koa-gold-infused-bud-flower-35g-4461305"
+          }
+        },
+        {
+          "id": "hjznev0g8zvawm7z3d",
+          "purchaseKey": "cnvyl8tgyxevp1hykblj",
+          "name": "Koa Gold Infused Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 94,
+            "discounted": 84.6
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/infused-sativa-koa-gold-infused-bud-flower-7g-4461306"
+          }
+        },
+        {
+          "id": "ms3bti1twwqtnucs9j",
+          "purchaseKey": "ibm653vjwbske8uoi1fw",
+          "name": "Koa Gold Infused Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 189,
+            "discounted": 170.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/infused-sativa-koa-gold-infused-bud-flower-14g-4461307"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yh3gt2xxckl3fumh1qr",
+      "name": "Waikiki Wave Mixed Buds",
+      "description": "A indica with notes of Guava, Mango. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "0gra7mkqys4qsdturc",
+        "brandId": "tp5e847pl6nplprp6",
+        "strainId": "qwqxiftp5752k7bdkl",
+        "qualityLineId": "njfkxplqzk1of1c9er",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "2oojd6dqlywrdeq5ke",
+          "purchaseKey": "hjjnev0g8zvawm7z3dkz",
+          "name": "Waikiki Wave Mixed Buds Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 28,
+            "discounted": 25.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/mixed-buds-indica-waikiki-wave-mixed-buds-flower-35g-4461308"
+          }
+        },
+        {
+          "id": "oaw9spoatlvbg1vbdg",
+          "purchaseKey": "j9rpiur5cuy0v1ayfhd0",
+          "name": "Waikiki Wave Mixed Buds Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 57,
+            "discounted": 51.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/mixed-buds-indica-waikiki-wave-mixed-buds-flower-7g-4461309"
+          }
+        },
+        {
+          "id": "lm0i0klu24ep32eh73",
+          "purchaseKey": "diozfk1yqokes943kyfs",
+          "name": "Waikiki Wave Mixed Buds Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 113,
+            "discounted": 101.7
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/mixed-buds-indica-waikiki-wave-mixed-buds-flower-14g-4461310"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yhsgt2xxckl3fumh1qr",
+      "name": "Ohana Gelato Whole Bud",
+      "description": "A sativa with notes of Honey, Kona Coffee. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "6quofzra8muuzosl27",
+        "brandId": "4ubdjlujk8ipj6z9i",
+        "strainId": "v47hqadq5b77zgdxhp",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "5ysqczxaw7phr6ygz0",
+          "purchaseKey": "uqb1ly8m03b5ubcka6k1",
+          "name": "Ohana Gelato Whole Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 39,
+            "discounted": 35.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/flower-sativa-ohana-gelato-whole-bud-flower-35g-4461311"
+          }
+        },
+        {
+          "id": "sf7lmyc8qudwtxwcd",
+          "purchaseKey": "ba0xwr8antwpb9yapkz",
+          "name": "Ohana Gelato Whole Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 79,
+            "discounted": 71.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/flower-sativa-ohana-gelato-whole-bud-flower-7g-4461312"
+          }
+        },
+        {
+          "id": "42dyln2jk8ipj6z9i",
+          "purchaseKey": "7hfm6l3rxvcwcf6218q",
+          "name": "Ohana Gelato Whole Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 158,
+            "discounted": 142.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/flower-sativa-ohana-gelato-whole-bud-flower-14g-4461313"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ixr6263v8wbske8uoi1",
+      "name": "Pineapple Ulu Whole Bud",
+      "description": "A hybrid with notes of Ocean Breeze, Papaya. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "6quofzra8muuzosl27",
+        "brandId": "0sza9kpys4qsdturc",
+        "strainId": "wf3c5wkqigorxvd0bj",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "kdtxp8h08lsofnlvc",
+          "purchaseKey": "gf3d4z65xe9h6k6hz3m",
+          "name": "Pineapple Ulu Whole Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 39,
+            "discounted": 35.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/flower-hybrid-pineapple-ulu-whole-bud-flower-35g-4461314"
+          }
+        },
+        {
+          "id": "21jb6dqlywrdeq5ke",
+          "purchaseKey": "h4nkv0g8zvawm7z3dkz",
+          "name": "Pineapple Ulu Whole Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 79,
+            "discounted": 71.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/flower-hybrid-pineapple-ulu-whole-bud-flower-7g-4461315"
+          }
+        },
+        {
+          "id": "gh3d4z65xe9h6k6hz",
+          "purchaseKey": "xcmxcwqrmwr9tlkxnlw",
+          "name": "Pineapple Ulu Whole Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 158,
+            "discounted": 142.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/flower-hybrid-pineapple-ulu-whole-bud-flower-14g-4461316"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wfsc5nkcoigorxvd0bj",
+      "name": "Pele's Fire Shake",
+      "description": "A sativa with notes of Pine, Kona Coffee. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "zuv22mjs9510wipke7",
+        "brandId": "n26kbldzk1of1c9er",
+        "strainId": "tp2esa45pl6nplprp6",
+        "qualityLineId": "njfkxplqzk1of1c9er",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "po8mvi28v0qk69548",
+          "purchaseKey": "kjtxp8h08lsofnlvcxd",
+          "name": "Pele's Fire Shake Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 17,
+            "discounted": 15.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/shake-sativa-peles-fire-shake-flower-35g-4461317"
+          }
+        },
+        {
+          "id": "qyxmtj95752k7bdkl",
+          "purchaseKey": "1qlowmpzgkqhp5a4epv",
+          "name": "Pele's Fire Shake Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 35,
+            "discounted": 31.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/shake-sativa-peles-fire-shake-flower-7g-4461318"
+          }
+        },
+        {
+          "id": "7dfm6l3rxvcwcf621",
+          "purchaseKey": "0fank61ys4qsdturcsd",
+          "name": "Pele's Fire Shake Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 69,
+            "discounted": 62.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/shake-sativa-peles-fire-shake-flower-14g-4461319"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lq5imrkli24ep32eh73",
+      "name": "Honu Haze Shake",
+      "description": "A hybrid with notes of Pine, Pineapple. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "zuv22mjs9510wipke7",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "strainId": "a7swc5wnwpdng1o0cc",
+        "qualityLineId": "njfkxplqzk1of1c9er",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "0vank61ys4qsdturc",
+          "purchaseKey": "ow9dpoatlvbg1vbdgtg",
+          "name": "Honu Haze Shake Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 17,
+            "discounted": 15.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/shake-hybrid-honu-haze-shake-flower-35g-4461320"
+          }
+        },
+        {
+          "id": "j5p2ur5cuy0v1ayfh",
+          "purchaseKey": "nukvl09zk1of1c9er4c",
+          "name": "Honu Haze Shake Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 35,
+            "discounted": 31.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/shake-hybrid-honu-haze-shake-flower-7g-4461321"
+          }
+        },
+        {
+          "id": "wtcxkcgigorxvd0bj",
+          "purchaseKey": "r35vtjqnfcxdgzqf38y",
+          "name": "Honu Haze Shake Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 69,
+            "discounted": 62.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/shake-hybrid-honu-haze-shake-flower-14g-4461322"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vddhqjdeu5b77zgdxhp",
+      "name": "Waikiki Wave Whole Bud",
+      "description": "A indica with notes of Mango, Lilikoi. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "6quofzra8muuzosl27",
+        "brandId": "qcnxptk5752k7bdkl",
+        "strainId": "qwqxiftp5752k7bdkl",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "1alowmpzgkqhp5a4e",
+          "purchaseKey": "49dyln2jk8ipj6z9igo",
+          "name": "Waikiki Wave Whole Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 39,
+            "discounted": 35.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/flower-indica-waikiki-wave-whole-bud-flower-35g-4461323"
+          }
+        },
+        {
+          "id": "yzgoxxukl3fumh1qr",
+          "purchaseKey": "qvxmtj95752k7bdklba",
+          "name": "Waikiki Wave Whole Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 79,
+            "discounted": 71.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/flower-indica-waikiki-wave-whole-bud-flower-7g-4461324"
+          }
+        },
+        {
+          "id": "ig6i3vjwbske8uoi1",
+          "purchaseKey": "zx2nj2m9510wipke75n",
+          "name": "Waikiki Wave Whole Bud Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 158,
+            "discounted": 142.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/flower-indica-waikiki-wave-whole-bud-flower-14g-4461325"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2i6jqt6dflywrdeq5ke",
+      "name": "Pineapple Ulu Pre-Ground",
+      "description": "A hybrid with notes of Papaya, Coconut. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "xw1m5ncjrmwr9tlkxn",
+        "brandId": "4ubdjlujk8ipj6z9i",
+        "strainId": "wf3c5wkqigorxvd0bj",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "c2y48tgyxevp1hykb",
+          "purchaseKey": "5hq8zxaw7phr6ygz0qq",
+          "name": "Pineapple Ulu Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 22,
+            "discounted": 19.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-hybrid-pineapple-ulu-pre-ground-flower-35g-4461326"
+          }
+        },
+        {
+          "id": "l3iqklu24ep32eh73",
+          "purchaseKey": "dmz0k1yqokes943kyfs",
+          "name": "Pineapple Ulu Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 44,
+            "discounted": 39.6
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-hybrid-pineapple-ulu-pre-ground-flower-7g-4461327"
+          }
+        },
+        {
+          "id": "tqe94iapl6nplprp6",
+          "purchaseKey": "31su9xs9v97p5ig5e7g",
+          "name": "Pineapple Ulu Pre-Ground Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 88,
+            "discounted": 79.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/ground-hybrid-pineapple-ulu-pre-ground-flower-14g-4461328"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4ulda2ln5jk8ipj6z9i",
+      "name": "Haleakala Haze Small Buds",
+      "description": "A hybrid with notes of Coconut, Kona Coffee. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "4pkdzolfjk8ipj6z9i",
+        "brandId": "j6mp4uqcuy0v1ayfh",
+        "strainId": "899uf1vrbj7d2t1aoy",
+        "qualityLineId": "euh4u4wwlx7fhsbo8r",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "c8y48tgyxevp1hykb",
+          "purchaseKey": "5tq8zxaw7phr6ygz0qq",
+          "name": "Haleakala Haze Small Buds Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 27,
+            "discounted": 24.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/small-flower-hybrid-haleakala-haze-small-buds-flower-35g-4461329"
+          }
+        },
+        {
+          "id": "vrhlde25b77zgdxhp",
+          "purchaseKey": "w8cxkcgigorxvd0bjx8",
+          "name": "Haleakala Haze Small Buds Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 54,
+            "discounted": 48.6
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/small-flower-hybrid-haleakala-haze-small-buds-flower-7g-4461330"
+          }
+        },
+        {
+          "id": "m2bui1twwqtnucs9j",
+          "purchaseKey": "ih6i3vjwbske8uoi1fw",
+          "name": "Haleakala Haze Small Buds Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 107,
+            "discounted": 96.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/small-flower-hybrid-haleakala-haze-small-buds-flower-14g-4461331"
+          }
+        }
+      ]
+    },
+    {
+      "id": "89qufwv4pbj7d2t1aoy",
+      "name": "Plumeria Punch Trim",
+      "description": "A sativa with notes of Pine, Plumeria. Hand-trimmed and cured for a smooth, flavorful session.",
+      "attributeIds": {
+        "categoryId": "c7qyre8wyxevp1hykb",
+        "brandId": "0sza9kpys4qsdturc",
+        "strainId": "5wcqltz8w7phr6ygz0",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "86uwbv4bj7d2t1aoy"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "f5vctnjkxrkg2jxqk",
+          "purchaseKey": "auw9wt7wpdng1o0ccv1",
+          "name": "Plumeria Punch Trim Flower",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 13,
+            "discounted": 11.7
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/trim-sativa-plumeria-punch-trim-flower-35g-4461332"
+          }
+        },
+        {
+          "id": "rd5vtjqnfcxdgzqf3",
+          "purchaseKey": "8fujv48bj7d2t1aoywy",
+          "name": "Plumeria Punch Trim Flower",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 25,
+            "discounted": 22.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/trim-sativa-plumeria-punch-trim-flower-7g-4461333"
+          }
+        },
+        {
+          "id": "n0kvl09zk1of1c9er",
+          "purchaseKey": "yogoxxukl3fumh1qry3",
+          "name": "Plumeria Punch Trim Flower",
+          "package": {
+            "itemSize": {
+              "value": 14,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 50,
+            "discounted": 45
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/flower-40494/trim-sativa-plumeria-punch-trim-flower-14g-4461334"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2lqjqq6dflywrdeq5ke",
+      "name": "Kalo Bubbler",
+      "description": "Kalo-themed bubbler from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "1r7lt5w6zgkqhp5a4e",
+        "brandId": "a7uwfwhwpdng1o0cc",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "oxk9wpoatlvbg1vbdg",
+          "purchaseKey": "jlgpyur5cuy0v1ayfhd0",
+          "name": "Kalo Bubbler Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 58,
+            "discounted": 52.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/pipes-kalo-bubbler-accessory-standard-4462204"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hdln22v0e8zvawm7z3d",
+      "name": "Plumeria Smell-Proof Bag",
+      "description": "Plumeria-themed smell-proof bag from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "v45hf0d15b77zgdxhp",
+        "brandId": "a7uwfwhwpdng1o0cc",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "d8czek1yqokes943ky",
+          "purchaseKey": "ft5v0tnjkxrkg2jxqkxn",
+          "name": "Plumeria Smell-Proof Bag Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 54,
+            "discounted": 48.6
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/storage-plumeria-smell-proof-bag-accessory-standard-4462205"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5avqllzxcw7phr6ygz0",
+      "name": "Pineapple Glass Pipe",
+      "description": "Pineapple-themed glass pipe from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "1r7lt5w6zgkqhp5a4e",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "19hlmwmpzgkqhp5a4e",
+          "purchaseKey": "4pcdgln2jk8ipj6z9igo",
+          "name": "Pineapple Glass Pipe Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 12,
+            "discounted": 10.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/pipes-pineapple-glass-pipe-accessory-standard-4462206"
+          }
+        }
+      ]
+    },
+    {
+      "id": "k29t00p8k08lsofnlvc",
+      "name": "Sunset Rolling Tray",
+      "description": "Sunset-themed rolling tray from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "bgp0r1w1antwpb9yap",
+        "brandId": "a7uwfwhwpdng1o0cc",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "nd0k5l09zk1of1c9er",
+          "purchaseKey": "yfogcxxukl3fumh1qry3",
+          "name": "Sunset Rolling Tray Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 55,
+            "discounted": 49.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/rolling-sunset-rolling-tray-accessory-standard-4462207"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bg4055wr2antwpb9yap",
+      "name": "Lava Glass Pipe",
+      "description": "Lava-themed glass pipe from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "1r7lt5w6zgkqhp5a4e",
+        "brandId": "j6mp4uqcuy0v1ayfh",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "uon1ey8m03b5ubcka6",
+          "purchaseKey": "ejy4dwomlx7fhsbo8rt6",
+          "name": "Lava Glass Pipe Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 33,
+            "discounted": 29.7
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/pipes-lava-glass-pipe-accessory-standard-4462208"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epx4xxwojlx7fhsbo8r",
+      "name": "Honu Acrylic Grinder",
+      "description": "Honu-themed acrylic grinder from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "1rhlt5w6zgkqhp5a4e",
+        "brandId": "a7uwfwhwpdng1o0cc",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "7kmfa6l3rxvcwcf621",
+          "purchaseKey": "0gia5k61ys4qsdturcsd",
+          "name": "Honu Acrylic Grinder Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 39,
+            "discounted": 35.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/grinders-honu-acrylic-grinder-accessory-standard-4462209"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asjwccwtbwpdng1o0cc",
+      "name": "Tiki Dab Rig",
+      "description": "Tiki-themed dab rig from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "5a2qhaziw7phr6ygz0",
+        "brandId": "4ubdjlujk8ipj6z9i",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "i5d6v3vjwbske8uoi1",
+          "purchaseKey": "zuf2hj2m9510wipke75n",
+          "name": "Tiki Dab Rig Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 43,
+            "discounted": 38.7
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/devices-tiki-dab-rig-accessory-standard-4462210"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tjmess4igpl6nplprp6",
+      "name": "Hibiscus Smell-Proof Bag",
+      "description": "Hibiscus-themed smell-proof bag from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "v45hf0d15b77zgdxhp",
+        "brandId": "e804ywxlx7fhsbo8r",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "h4cnwv0g8zvawm7z3d",
+          "purchaseKey": "c75yh8tgyxevp1hykblj",
+          "name": "Hibiscus Smell-Proof Bag Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 40,
+            "discounted": 36
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/storage-hibiscus-smell-proof-bag-accessory-standard-4462211"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03paffk6mys4qsdturc",
+      "name": "Ohia Glass Pipe",
+      "description": "Ohia-themed glass pipe from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "1r7lt5w6zgkqhp5a4e",
+        "brandId": "4ubdjlujk8ipj6z9i",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "qalx9tj95752k7bdkl",
+          "purchaseKey": "19dlmwmpzgkqhp5a4epv",
+          "name": "Ohia Glass Pipe Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 39,
+            "discounted": 35.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/pipes-ohia-glass-pipe-accessory-standard-4462212"
+          }
+        }
+      ]
+    },
+    {
+      "id": "l5himmkli24ep32eh73",
+      "name": "Ohia 4-Piece Grinder",
+      "description": "Ohia-themed 4-piece grinder from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "1rhlt5w6zgkqhp5a4e",
+        "brandId": "4ubdjlujk8ipj6z9i",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "9muruy6ktmbkpl3ca4",
+          "purchaseKey": "pie82vi28v0qk695481z",
+          "name": "Ohia 4-Piece Grinder Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 63,
+            "discounted": 56.7
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/grinders-ohia-4-piece-grinder-accessory-standard-4462213"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tjaess4igpl6nplprp6",
+      "name": "Sunset Stash Case",
+      "description": "Sunset-themed stash case from our island-inspired collection. Durable and built for everyday use.",
+      "attributeIds": {
+        "categoryId": "v45hf0d15b77zgdxhp",
+        "brandId": "qcnxptk5752k7bdkl",
+        "productTypeId": "sp7u2my8qudwtxwcd"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "4phdgln2jk8ipj6z9i",
+          "purchaseKey": "7kcfa6l3rxvcwcf6218q",
+          "name": "Sunset Stash Case Accessory",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 11,
+            "discounted": 9.9
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/accessories-40498/storage-sunset-stash-case-accessory-standard-4462214"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kjvt00p8k08lsofnlvc",
+      "name": "Lava Crewneck",
+      "description": "Soft, comfortable crewneck with a lava design inspired by the islands.",
+      "attributeIds": {
+        "categoryId": "891uh3vhbj7d2t1aoy",
+        "brandId": "0sza9kpys4qsdturc",
+        "productTypeId": "97rcky6tmbkpl3ca4"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "0s3a5k61ys4qsdturc",
+          "purchaseKey": "obm9wpoatlvbg1vbdgtg",
+          "name": "Lava Crewneck Apparel",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 50,
+            "discounted": 45
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/apparel-46763/shirts-lava-crewneck-apparel-s-4462259"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1ezwwk1sqokes943ky",
+      "name": "Wave Tank",
+      "description": "Soft, comfortable tank with a wave design inspired by the islands.",
+      "attributeIds": {
+        "categoryId": "891uh3vhbj7d2t1aoy",
+        "brandId": "ixk6u37wbske8uoi1",
+        "productTypeId": "97rcky6tmbkpl3ca4"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "xysmqcwqrmwr9tlkxn",
+          "purchaseKey": "lqbifklu24ep32eh73hv",
+          "name": "Wave Tank Apparel",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 28,
+            "discounted": 25.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/apparel-46763/shirts-wave-tank-apparel-s-4462263"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3kgspp9xv9v97p5ig5e",
+      "name": "Lava Snapback",
+      "description": "Soft, comfortable snapback with a lava design inspired by the islands.",
+      "attributeIds": {
+        "categoryId": "w7wca0ktigorxvd0bj",
+        "brandId": "j6mp4uqcuy0v1ayfh",
+        "productTypeId": "97rcky6tmbkpl3ca4"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "890u5v48bj7d2t1aoy",
+          "purchaseKey": "tpoeo4iapl6nplprp6sa",
+          "name": "Lava Snapback Apparel",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 28,
+            "discounted": 25.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/apparel-46763/hats-lava-snapback-apparel-one-size-4462267"
+          }
+        }
+      ]
+    },
+    {
+      "id": "898uffv4pbj7d2t1aoy",
+      "name": "Ohia Tank",
+      "description": "Soft, comfortable tank with a ohia design inspired by the islands.",
+      "attributeIds": {
+        "categoryId": "891uh3vhbj7d2t1aoy",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "productTypeId": "97rcky6tmbkpl3ca4"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "tp9eo4iapl6nplprp6",
+          "purchaseKey": "3kpsg9xs9v97p5ig5e7g",
+          "name": "Ohia Tank Apparel",
+          "package": {
+            "itemSize": {
+              "value": 1,
+              "uom": "each"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 28,
+            "discounted": 25.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/apparel-46763/shirts-ohia-tank-apparel-s-4462268"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wic5akcoigorxvd0bj",
+      "name": "Kiawe Honey Cold Brew Infusion",
+      "description": "Kiawe Honey-flavored cold brew infusion with a consistent dose per serving. Chill, sip, and enjoy the islands.",
+      "attributeIds": {
+        "categoryId": "89luh3vhbj7d2t1aoy",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "15l6rwmzgkqhp5a4e"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "b730xwr8antwpb9yap",
+          "purchaseKey": "60mopr308muuzosl27r0",
+          "name": "Kiawe Honey Cold Brew Infusion Beverage",
+          "package": {
+            "itemSize": {
+              "value": 100,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  100
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 14,
+            "discounted": 12.6
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/beverage-46758/beverage-infusions-kiawe-honey-cold-brew-infusion-beverage-8oz-100mg-4461562"
+          }
+        }
+      ]
+    },
+    {
+      "id": "un1o6y8i03b5ubcka6",
+      "name": "Passion Lemonade Drink Mix Powder",
+      "description": "Passion Lemonade-flavored drink mix powder with a consistent dose per serving. Chill, sip, and enjoy the islands.",
+      "attributeIds": {
+        "categoryId": "stk73qmf8qudwtxwcd",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "15l6rwmzgkqhp5a4e"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "s447lmyc8qudwtxwcd",
+          "purchaseKey": "b770xwr8antwpb9yapkz",
+          "name": "Passion Lemonade Drink Mix Powder Beverage",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  5
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 5,
+            "discounted": 4.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/beverage-46758/powders-passion-lemonade-drink-mix-powder-beverage-single-5mg-4461564"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7mfvo6larxvcwcf621",
+      "name": "Lychee Sparkling Water",
+      "description": "Lychee-flavored sparkling water with a consistent dose per serving. Chill, sip, and enjoy the islands.",
+      "attributeIds": {
+        "categoryId": "7enfoq6vrxvcwcf621",
+        "brandId": "qcnxptk5752k7bdkl",
+        "qualityLineId": "euh4u4wwlx7fhsbo8r",
+        "productTypeId": "15l6rwmzgkqhp5a4e"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "k81txp8h08lsofnlvc",
+          "purchaseKey": "gt43d4z65xe9h6k6hz3m",
+          "name": "Lychee Sparkling Water Beverage",
+          "package": {
+            "itemSize": {
+              "value": 50,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  50
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 9,
+            "discounted": 8.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/beverage-46758/drinks-lychee-sparkling-water-beverage-50mg-4461566"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gq3hq4z05xe9h6k6hz",
+      "name": "Ube Cold Brew Infusion",
+      "description": "Ube-flavored cold brew infusion with a consistent dose per serving. Chill, sip, and enjoy the islands.",
+      "attributeIds": {
+        "categoryId": "89luh3vhbj7d2t1aoy",
+        "brandId": "qcnxptk5752k7bdkl",
+        "qualityLineId": "njfkxplqzk1of1c9er",
+        "productTypeId": "15l6rwmzgkqhp5a4e"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "zj2oj2m9510wipke7",
+          "purchaseKey": "vnhgde25b77zgdxhp1q",
+          "name": "Ube Cold Brew Infusion Beverage",
+          "package": {
+            "itemSize": {
+              "value": 50,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  50
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 9,
+            "discounted": 8.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/beverage-46758/beverage-infusions-ube-cold-brew-infusion-beverage-50mg-4461568"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oj94rpoztlvbg1vbdg",
+      "name": "Lilikoi Cold Brew Infusion",
+      "description": "Lilikoi-flavored cold brew infusion with a consistent dose per serving. Chill, sip, and enjoy the islands.",
+      "attributeIds": {
+        "categoryId": "89luh3vhbj7d2t1aoy",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "15l6rwmzgkqhp5a4e"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "1ol2wmpzgkqhp5a4e",
+          "purchaseKey": "4jd5ln2jk8ipj6z9igo",
+          "name": "Lilikoi Cold Brew Infusion Beverage",
+          "package": {
+            "itemSize": {
+              "value": 25,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  25
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 7,
+            "discounted": 6.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/beverage-46758/beverage-infusions-lilikoi-cold-brew-infusion-beverage-25mg-4461570"
+          }
+        }
+      ]
+    },
+    {
+      "id": "qlxintjc5752k7bdkl",
+      "name": "Lehua Berry Sparkling Water",
+      "description": "Lehua Berry-flavored sparkling water with a consistent dose per serving. Chill, sip, and enjoy the islands.",
+      "attributeIds": {
+        "categoryId": "7enfoq6vrxvcwcf621",
+        "brandId": "tp5e847pl6nplprp6",
+        "qualityLineId": "euh4u4wwlx7fhsbo8r",
+        "productTypeId": "15l6rwmzgkqhp5a4e"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "48d5ln2jk8ipj6z9i",
+          "purchaseKey": "7tfw6l3rxvcwcf6218q",
+          "name": "Lehua Berry Sparkling Water Beverage",
+          "package": {
+            "itemSize": {
+              "value": 25,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  25
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 7,
+            "discounted": 6.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/beverage-46758/drinks-lehua-berry-sparkling-water-beverage-25mg-4461572"
+          }
+        }
+      ]
+    },
+    {
+      "id": "h2in2lv0e8zvawm7z3d",
+      "name": "Papaya Lollipops",
+      "description": "Papaya-flavored lollipops made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "qarxnut45752k7bdkl",
+        "brandId": "j6mp4uqcuy0v1ayfh",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "ascw9wt7wpdng1o0cc",
+          "purchaseKey": "9b5r5y6ktmbkpl3ca46k",
+          "name": "Papaya Lollipops Edible",
+          "package": {
+            "itemSize": {
+              "value": 10,
+              "uom": "milligram"
+            },
+            "itemsCount": 10
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  100
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 25,
+            "discounted": 22.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/candy-papaya-lollipops-edible-10-pack-100mg-4461452"
+          }
+        },
+        {
+          "id": "u9i1cy8m03b5ubcka6",
+          "purchaseKey": "epz4kwomlx7fhsbo8rt6",
+          "name": "Papaya Lollipops Edible",
+          "package": {
+            "itemSize": {
+              "value": 2.5,
+              "uom": "milligram"
+            },
+            "itemsCount": 40
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  100
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 61,
+            "discounted": 54.9
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/candy-papaya-lollipops-edible-40-pack-100mg-4461453"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch2yqg8t3yxevp1hykb",
+      "name": "Coconut Sour Gummy Rings",
+      "description": "Coconut-flavored sour gummy rings made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "wsaca0ktigorxvd0bj",
+        "brandId": "e804ywxlx7fhsbo8r",
+        "qualityLineId": "njfkxplqzk1of1c9er",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "bgc0xwr8antwpb9yap",
+          "purchaseKey": "6x5opr308muuzosl27r0",
+          "name": "Coconut Sour Gummy Rings Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 5
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  25
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 12,
+            "discounted": 10.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/gummies-coconut-sour-gummy-rings-edible-5-pack-25mg-4461454"
+          }
+        },
+        {
+          "id": "8o6ujv48bj7d2t1aoy",
+          "purchaseKey": "tj2e94iapl6nplprp6sa",
+          "name": "Coconut Sour Gummy Rings Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 10
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  50
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 20,
+            "discounted": 18
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/gummies-coconut-sour-gummy-rings-edible-10-pack-50mg-4461455"
+          }
+        }
+      ]
+    },
+    {
+      "id": "u5y1ony8i03b5ubcka6",
+      "name": "Li Hing Mango Gummies",
+      "description": "Li Hing Mango-flavored gummies made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "wsaca0ktigorxvd0bj",
+        "brandId": "ixk6u37wbske8uoi1",
+        "qualityLineId": "njfkxplqzk1of1c9er",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "skk7lmyc8qudwtxwcd",
+          "purchaseKey": "bgg0xwr8antwpb9yapkz",
+          "name": "Li Hing Mango Gummies Edible",
+          "package": {
+            "itemSize": {
+              "value": 2,
+              "uom": "milligram"
+            },
+            "itemsCount": 25
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  50
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 38,
+            "discounted": 34.2
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/gummies-li-hing-mango-gummies-edible-25-pack-50mg-4461456"
+          }
+        },
+        {
+          "id": "48udyln2jk8ipj6z9i",
+          "purchaseKey": "7tefm6l3rxvcwcf6218q",
+          "name": "Li Hing Mango Gummies Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  5
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 5,
+            "discounted": 4.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/gummies-li-hing-mango-gummies-edible-1-pack-5mg-4461457"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gku3hj4z05xe9h6k6hz",
+      "name": "Papaya Cooking Oil",
+      "description": "Papaya-flavored cooking oil made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "868uh3vhbj7d2t1aoy",
+        "brandId": "e804ywxlx7fhsbo8r",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "k2ptxp8h08lsofnlvc",
+          "purchaseKey": "ghk3d4z65xe9h6k6hz3m",
+          "name": "Papaya Cooking Oil Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 20
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  100
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 37,
+            "discounted": 33.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/cooking-papaya-cooking-oil-edible-20-pack-100mg-4461458"
+          }
+        },
+        {
+          "id": "2lojb6dqlywrdeq5ke",
+          "purchaseKey": "hdjnkv0g8zvawm7z3dkz",
+          "name": "Papaya Cooking Oil Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 2
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  10
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 6,
+            "discounted": 5.4
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/cooking-papaya-cooking-oil-edible-2-pack-10mg-4461459"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6bvo8xr3h8muuzosl27",
+      "name": "Haupia Truffles",
+      "description": "Haupia-flavored truffles made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "8o1uh3vhbj7d2t1aoy",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "qualityLineId": "njfkxplqzk1of1c9er",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "ghe3d4z65xe9h6k6hz",
+          "purchaseKey": "xcsmxcwqrmwr9tlkxnlw",
+          "name": "Haupia Truffles Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 10
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  50
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 20,
+            "discounted": 18
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/chocolate-haupia-truffles-edible-10-pack-50mg-4461460"
+          }
+        },
+        {
+          "id": "p6q8mvi28v0qk69548",
+          "purchaseKey": "k21txp8h08lsofnlvcxd",
+          "name": "Haupia Truffles Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 5
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  25
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 12,
+            "discounted": 10.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/chocolate-haupia-truffles-edible-5-pack-25mg-4461461"
+          }
+        }
+      ]
+    },
+    {
+      "id": "se675umye8qudwtxwcd",
+      "name": "Coconut Chews",
+      "description": "Coconut-flavored chews made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "7thfoq6vrxvcwcf621",
+        "brandId": "4ubdjlujk8ipj6z9i",
+        "qualityLineId": "njfkxplqzk1of1c9er",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "qw7xmtj95752k7bdkl",
+          "purchaseKey": "1r0lowmpzgkqhp5a4epv",
+          "name": "Coconut Chews Edible",
+          "package": {
+            "itemSize": {
+              "value": 2.5,
+              "uom": "milligram"
+            },
+            "itemsCount": 30
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  75
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 46,
+            "discounted": 41.4
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/chews-coconut-chews-edible-30-pack-75mg-4461462"
+          }
+        },
+        {
+          "id": "7tpfm6l3rxvcwcf621",
+          "purchaseKey": "03kank61ys4qsdturcsd",
+          "name": "Coconut Chews Edible",
+          "package": {
+            "itemSize": {
+              "value": 50,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  50
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 9,
+            "discounted": 8.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/chews-coconut-chews-edible-1-pack-50mg-4461463"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9atrrcy6otmbkpl3ca4",
+      "name": "Coconut Truffles",
+      "description": "Coconut-flavored truffles made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "8o1uh3vhbj7d2t1aoy",
+        "brandId": "j6mp4uqcuy0v1ayfh",
+        "qualityLineId": "euh4u4wwlx7fhsbo8r",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "03tank61ys4qsdturc",
+          "purchaseKey": "om39dpoatlvbg1vbdgtg",
+          "name": "Coconut Truffles Edible",
+          "package": {
+            "itemSize": {
+              "value": 2.5,
+              "uom": "milligram"
+            },
+            "itemsCount": 40
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  100
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 61,
+            "discounted": 54.9
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/chocolate-coconut-truffles-edible-40-pack-100mg-4461464"
+          }
+        },
+        {
+          "id": "jibp2ur5cuy0v1ayfh",
+          "purchaseKey": "nz6kvl09zk1of1c9er4c",
+          "name": "Coconut Truffles Edible",
+          "package": {
+            "itemSize": {
+              "value": 10,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  10
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 5,
+            "discounted": 4.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/chocolate-coconut-truffles-edible-1-pack-10mg-4461465"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3tosp49xv9v97p5ig5e",
+      "name": "Macadamia Nut Cooking Butter",
+      "description": "Macadamia Nut-flavored cooking butter made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "868uh3vhbj7d2t1aoy",
+        "brandId": "j6mp4uqcuy0v1ayfh",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "w7zcxkcgigorxvd0bj",
+          "purchaseKey": "r0v5vtjqnfcxdgzqf38y",
+          "name": "Macadamia Nut Cooking Butter Edible",
+          "package": {
+            "itemSize": {
+              "value": 25,
+              "uom": "milligram"
+            },
+            "itemsCount": 2
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  50
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 10,
+            "discounted": 9
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/cooking-macadamia-nut-cooking-butter-edible-2-pack-50mg-4461466"
+          }
+        },
+        {
+          "id": "1rglowmpzgkqhp5a4e",
+          "purchaseKey": "48xdyln2jk8ipj6z9igo",
+          "name": "Macadamia Nut Cooking Butter Edible",
+          "package": {
+            "itemSize": {
+              "value": 3.125,
+              "uom": "milligram"
+            },
+            "itemsCount": 16
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  50
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 27,
+            "discounted": 24.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/cooking-macadamia-nut-cooking-butter-edible-16-pack-50mg-4461467"
+          }
+        }
+      ]
+    },
+    {
+      "id": "o0e94fpoztlvbg1vbdg",
+      "name": "Ube Chewy Cubes",
+      "description": "Ube-flavored chewy cubes made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "7thfoq6vrxvcwcf621",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "qualityLineId": "euh4u4wwlx7fhsbo8r",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "yv8goxxukl3fumh1qr",
+          "purchaseKey": "qwtxmtj95752k7bdklba",
+          "name": "Ube Chewy Cubes Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 20
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  100
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 37,
+            "discounted": 33.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/chews-ube-chewy-cubes-edible-20-pack-100mg-4461468"
+          }
+        },
+        {
+          "id": "iqf6i3vjwbske8uoi1",
+          "purchaseKey": "z1a2nj2m9510wipke75n",
+          "name": "Ube Chewy Cubes Edible",
+          "package": {
+            "itemSize": {
+              "value": 100,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  100
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 14,
+            "discounted": 12.6
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/chews-ube-chewy-cubes-edible-1-pack-100mg-4461469"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dlgzwbk1sqokes943ky",
+      "name": "Kiawe Honey Chocolate Bar",
+      "description": "Kiawe Honey-flavored chocolate bar made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "8o1uh3vhbj7d2t1aoy",
+        "brandId": "e804ywxlx7fhsbo8r",
+        "qualityLineId": "rwl5mhtcnfcxdgzqf3",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "cfuy48tgyxevp1hykb",
+          "purchaseKey": "5aeq8zxaw7phr6ygz0qq",
+          "name": "Kiawe Honey Chocolate Bar Edible",
+          "package": {
+            "itemSize": {
+              "value": 50,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  50
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 9,
+            "discounted": 8.1
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/chocolate-kiawe-honey-chocolate-bar-edible-1-pack-50mg-4461470"
+          }
+        },
+        {
+          "id": "l5viqklu24ep32eh73",
+          "purchaseKey": "duwz0k1yqokes943kyfs",
+          "name": "Kiawe Honey Chocolate Bar Edible",
+          "package": {
+            "itemSize": {
+              "value": 100,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  100
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 14,
+            "discounted": 12.6
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/chocolate-kiawe-honey-chocolate-bar-edible-1-pack-100mg-4461471"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3t5sp49xv9v97p5ig5e",
+      "name": "Lehua Berry Lollipops",
+      "description": "Lehua Berry-flavored lollipops made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "qarxnut45752k7bdkl",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "qualityLineId": "njfkxplqzk1of1c9er",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "tj0e94iapl6nplprp6",
+          "purchaseKey": "3nosu9xs9v97p5ig5e7g",
+          "name": "Lehua Berry Lollipops Edible",
+          "package": {
+            "itemSize": {
+              "value": 25,
+              "uom": "milligram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  25
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 7,
+            "discounted": 6.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/candy-lehua-berry-lollipops-edible-1-pack-25mg-4461472"
+          }
+        },
+        {
+          "id": "cfiy48tgyxevp1hykb",
+          "purchaseKey": "5azq8zxaw7phr6ygz0qq",
+          "name": "Lehua Berry Lollipops Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 5
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  25
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 12,
+            "discounted": 10.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/candy-lehua-berry-lollipops-edible-5-pack-25mg-4461473"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kpct0yp8k08lsofnlvc",
+      "name": "Passion Lemonade Gummies",
+      "description": "Passion Lemonade-flavored gummies made with island-inspired ingredients. Every piece is dosed consistently.",
+      "attributeIds": {
+        "categoryId": "wsaca0ktigorxvd0bj",
+        "brandId": "a7uwfwhwpdng1o0cc",
+        "qualityLineId": "euh4u4wwlx7fhsbo8r",
+        "productTypeId": "7tfnd6lrxvcwcf621"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "v4mhlde25b77zgdxhp",
+          "purchaseKey": "w7icxkcgigorxvd0bjx8",
+          "name": "Passion Lemonade Gummies Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 10
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  50
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 20,
+            "discounted": 18
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/gummies-passion-lemonade-gummies-edible-10-pack-50mg-4461474"
+          }
+        },
+        {
+          "id": "myubui1twwqtnucs9j",
+          "purchaseKey": "iqe6i3vjwbske8uoi1fw",
+          "name": "Passion Lemonade Gummies Edible",
+          "package": {
+            "itemSize": {
+              "value": 5,
+              "uom": "milligram"
+            },
+            "itemsCount": 20
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  100
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 37,
+            "discounted": 33.3
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/edibles-40493/gummies-passion-lemonade-gummies-edible-20-pack-100mg-4461475"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wg9c50kcoigorxvd0bj",
+      "name": "Noni CBD Hemp Flower",
+      "description": "Noni CBD hemp flower, hand-trimmed for a smooth, mellow smoke.",
+      "attributeIds": {
+        "categoryId": "qw5xnut45752k7bdkl",
+        "brandId": "4ubdjlujk8ipj6z9i",
+        "productTypeId": "of9fmpotlvbg1vbdg"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "0swa2k61ys4qsdturc",
+          "purchaseKey": "obr9jpoatlvbg1vbdgtg",
+          "name": "Noni CBD Hemp Flower Hemp",
+          "package": {
+            "itemSize": {
+              "value": 3.5,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  0
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [
+              {
+                "values": [
+                  525
+                ],
+                "uom": "milligram",
+                "label": "CBD"
+              }
+            ],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 35,
+            "discounted": 31.5
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/noni-cbd-hemp-flower-hemp-35g-4462511"
+          }
+        },
+        {
+          "id": "0sca2k61ys4qsdturc",
+          "purchaseKey": "ob59jpoatlvbg1vbdgtg",
+          "name": "Noni CBD Hemp Flower Hemp",
+          "package": {
+            "itemSize": {
+              "value": 7,
+              "uom": "gram"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "compounds": {
+            "thc": [
+              {
+                "values": [
+                  0
+                ],
+                "uom": "milligram",
+                "label": "THC"
+              }
+            ],
+            "cbd": [
+              {
+                "values": [
+                  1050
+                ],
+                "uom": "milligram",
+                "label": "CBD"
+              }
+            ],
+            "terpenes": []
+          },
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 60,
+            "discounted": 54
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/noni-cbd-hemp-flower-hemp-7g-4462512"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bw6051wr2antwpb9yap",
+      "name": "Ginger Hemp Fiber Rope",
+      "description": "Hemp Fiber Rope with a ginger twist, made with hemp grown in Hawaii.",
+      "attributeIds": {
+        "categoryId": "qw5xnut45752k7bdkl",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "productTypeId": "of9fmpotlvbg1vbdg"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "89iuov48bj7d2t1aoy",
+          "purchaseKey": "tpzec4iapl6nplprp6sa",
+          "name": "Ginger Hemp Fiber Rope Hemp",
+          "package": {
+            "itemSize": {
+              "value": 8,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 12,
+            "discounted": 10.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/ginger-hemp-fiber-rope-hemp-8oz-4462513"
+          }
+        },
+        {
+          "id": "mgcb0i1twwqtnucs9j",
+          "purchaseKey": "ix56t3vjwbske8uoi1fw",
+          "name": "Ginger Hemp Fiber Rope Hemp",
+          "package": {
+            "itemSize": {
+              "value": 16,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 20,
+            "discounted": 18
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/ginger-hemp-fiber-rope-hemp-16oz-4462514"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8leuf3v4pbj7d2t1aoy",
+      "name": "Noni Hemp Seed Granola",
+      "description": "Hemp Seed Granola with a noni twist, made with hemp grown in Hawaii.",
+      "attributeIds": {
+        "categoryId": "qw5xnut45752k7bdkl",
+        "brandId": "0sza9kpys4qsdturc",
+        "productTypeId": "of9fmpotlvbg1vbdg"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "po68kvi28v0qk69548",
+          "purchaseKey": "kj2thp8h08lsofnlvcxd",
+          "name": "Noni Hemp Seed Granola Hemp",
+          "package": {
+            "itemSize": {
+              "value": 8,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 12,
+            "discounted": 10.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/noni-hemp-seed-granola-hemp-8oz-4462515"
+          }
+        },
+        {
+          "id": "3kksk9xs9v97p5ig5e",
+          "purchaseKey": "mggb0i1twwqtnucs9jkd",
+          "name": "Noni Hemp Seed Granola Hemp",
+          "package": {
+            "itemSize": {
+              "value": 16,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 20,
+            "discounted": 18
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/noni-hemp-seed-granola-hemp-16oz-4462516"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i9j6243v8wbske8uoi1",
+      "name": "Coconut Hemp Seed Butter",
+      "description": "Hemp Seed Butter with a coconut twist, made with hemp grown in Hawaii.",
+      "attributeIds": {
+        "categoryId": "qw5xnut45752k7bdkl",
+        "brandId": "wf8cvk8igorxvd0bj",
+        "productTypeId": "of9fmpotlvbg1vbdg"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "e8u4vwomlx7fhsbo8r",
+          "purchaseKey": "ste7fmyc8qudwtxwcdpw",
+          "name": "Coconut Hemp Seed Butter Hemp",
+          "package": {
+            "itemSize": {
+              "value": 8,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 12,
+            "discounted": 10.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/coconut-hemp-seed-butter-hemp-8oz-4462517"
+          }
+        },
+        {
+          "id": "n2pkil09zk1of1c9er",
+          "purchaseKey": "yhkgzxxukl3fumh1qry3",
+          "name": "Coconut Hemp Seed Butter Hemp",
+          "package": {
+            "itemSize": {
+              "value": 16,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 20,
+            "discounted": 18
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/coconut-hemp-seed-butter-hemp-16oz-4462518"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ezv4xswojlx7fhsbo8r",
+      "name": "Pikake Hemp Protein Powder",
+      "description": "Hemp Protein Powder with a pikake twist, made with hemp grown in Hawaii.",
+      "attributeIds": {
+        "categoryId": "qw5xnut45752k7bdkl",
+        "brandId": "a7uwfwhwpdng1o0cc",
+        "productTypeId": "of9fmpotlvbg1vbdg"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "zlo2wj2m9510wipke7",
+          "purchaseKey": "vdjhbde25b77zgdxhp1q",
+          "name": "Pikake Hemp Protein Powder Hemp",
+          "package": {
+            "itemSize": {
+              "value": 8,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 12,
+            "discounted": 10.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/pikake-hemp-protein-powder-hemp-8oz-4462519"
+          }
+        },
+        {
+          "id": "yhegzxxukl3fumh1qr",
+          "purchaseKey": "qcsx1tj95752k7bdklba",
+          "name": "Pikake Hemp Protein Powder Hemp",
+          "package": {
+            "itemSize": {
+              "value": 16,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 20,
+            "discounted": 18
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/pikake-hemp-protein-powder-hemp-16oz-4462520"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5m6qlazxcw7phr6ygz0",
+      "name": "Maui Honey Hemp Seed Granola",
+      "description": "Hemp Seed Granola with a maui honey twist, made with hemp grown in Hawaii.",
+      "attributeIds": {
+        "categoryId": "qw5xnut45752k7bdkl",
+        "brandId": "ixk6u37wbske8uoi1",
+        "productTypeId": "of9fmpotlvbg1vbdg"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "j6qpmur5cuy0v1ayfh",
+          "purchaseKey": "n21kil09zk1of1c9er4c",
+          "name": "Maui Honey Hemp Seed Granola Hemp",
+          "package": {
+            "itemSize": {
+              "value": 8,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 12,
+            "discounted": 10.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/maui-honey-hemp-seed-granola-hemp-8oz-4462521"
+          }
+        },
+        {
+          "id": "5w7qrzxaw7phr6ygz0",
+          "purchaseKey": "ur01ky8m03b5ubcka6k1",
+          "name": "Maui Honey Hemp Seed Granola Hemp",
+          "package": {
+            "itemSize": {
+              "value": 16,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 20,
+            "discounted": 18
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/maui-honey-hemp-seed-granola-hemp-16oz-4462522"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aymwckwtbwpdng1o0cc",
+      "name": "Maui Honey Hemp Protein Powder",
+      "description": "Hemp Protein Powder with a maui honey twist, made with hemp grown in Hawaii.",
+      "attributeIds": {
+        "categoryId": "qw5xnut45752k7bdkl",
+        "brandId": "e804ywxlx7fhsbo8r",
+        "productTypeId": "of9fmpotlvbg1vbdg"
+      },
+      "images": [],
+      "variants": [
+        {
+          "id": "stp7fmyc8qudwtxwcd",
+          "purchaseKey": "b3k0ewr8antwpb9yapkz",
+          "name": "Maui Honey Hemp Protein Powder Hemp",
+          "package": {
+            "itemSize": {
+              "value": 8,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 12,
+            "discounted": 10.8
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/maui-honey-hemp-protein-powder-hemp-8oz-4462523"
+          }
+        },
+        {
+          "id": "b3t0ewr8antwpb9yap",
+          "purchaseKey": "6m3o4r308muuzosl27r0",
+          "name": "Maui Honey Hemp Protein Powder Hemp",
+          "package": {
+            "itemSize": {
+              "value": 16,
+              "uom": "ounce"
+            },
+            "itemsCount": 1
+          },
+          "images": [],
+          "stock": {
+            "quantity": 100
+          },
+          "prices": {
+            "base": 20,
+            "discounted": 18
+          },
+          "links": {
+            "web": "https://shop.example.com/maui/recreational/menu/hemp-46765/maui-honey-hemp-protein-powder-hemp-16oz-4462524"
+          }
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "categories": [
+      {
+        "id": "k4itylpt08lsofnlvc",
+        "name": "Flower",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/flower-40494"
+        }
+      },
+      {
+        "id": "aydwlhwawpdng1o0cc",
+        "name": "Pre-Rolls",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/pre-rolls-40497"
+        }
+      },
+      {
+        "id": "td5exd4spl6nplprp6",
+        "name": "Accessories",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/accessories-40498"
+        }
+      },
+      {
+        "id": "0czalrkqys4qsdturc",
+        "name": "Gift Card",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/gift-card-40499"
+        }
+      },
+      {
+        "id": "xw1m5ncjrmwr9tlkxn",
+        "name": "Ground",
+        "parentId": "k4itylpt08lsofnlvc",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/ground-46722"
+        }
+      },
+      {
+        "id": "zuv22mjs9510wipke7",
+        "name": "Shake",
+        "parentId": "k4itylpt08lsofnlvc",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/shake-46723"
+        }
+      },
+      {
+        "id": "c7qyre8wyxevp1hykb",
+        "name": "Trim",
+        "parentId": "k4itylpt08lsofnlvc",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/trim-46724"
+        }
+      },
+      {
+        "id": "0gra7mkqys4qsdturc",
+        "name": "Mixed Buds",
+        "parentId": "k4itylpt08lsofnlvc",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/mixed-buds-46725"
+        }
+      },
+      {
+        "id": "uoz167yq03b5ubcka6",
+        "name": "Infused",
+        "parentId": "k4itylpt08lsofnlvc",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/infused-46726"
+        }
+      },
+      {
+        "id": "6quofzra8muuzosl27",
+        "name": "Flower",
+        "parentId": "k4itylpt08lsofnlvc",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/flower-46727"
+        }
+      },
+      {
+        "id": "4pkdzolfjk8ipj6z9i",
+        "name": "Small Flower",
+        "parentId": "k4itylpt08lsofnlvc",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/small-flower-46728"
+        }
+      },
+      {
+        "id": "1r7lt5w6zgkqhp5a4e",
+        "name": "Pipes",
+        "parentId": "td5exd4spl6nplprp6",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/pipes-46750"
+        }
+      },
+      {
+        "id": "v45hf0d15b77zgdxhp",
+        "name": "Storage",
+        "parentId": "td5exd4spl6nplprp6",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/storage-46751"
+        }
+      },
+      {
+        "id": "bgp0r1w1antwpb9yap",
+        "name": "Rolling",
+        "parentId": "td5exd4spl6nplprp6",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/rolling-46752"
+        }
+      },
+      {
+        "id": "1rhlt5w6zgkqhp5a4e",
+        "name": "Grinders",
+        "parentId": "td5exd4spl6nplprp6",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/grinders-46753"
+        }
+      },
+      {
+        "id": "5a2qhaziw7phr6ygz0",
+        "name": "Devices",
+        "parentId": "td5exd4spl6nplprp6",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/devices-46754"
+        }
+      },
+      {
+        "id": "6x1ofzra8muuzosl27",
+        "name": "Apparel",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/apparel-46763"
+        }
+      },
+      {
+        "id": "891uh3vhbj7d2t1aoy",
+        "name": "Shirts",
+        "parentId": "6x1ofzra8muuzosl27",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/shirts-46767"
+        }
+      },
+      {
+        "id": "w7wca0ktigorxvd0bj",
+        "name": "Hats",
+        "parentId": "6x1ofzra8muuzosl27",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/hats-46766"
+        }
+      },
+      {
+        "id": "xclm5ncjrmwr9tlkxn",
+        "name": "Beverage",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/beverage-46758"
+        }
+      },
+      {
+        "id": "89luh3vhbj7d2t1aoy",
+        "name": "Beverage Infusions",
+        "parentId": "xclm5ncjrmwr9tlkxn",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/beverage-infusions-46768"
+        }
+      },
+      {
+        "id": "stk73qmf8qudwtxwcd",
+        "name": "Powders",
+        "parentId": "xclm5ncjrmwr9tlkxn",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/powders-46771"
+        }
+      },
+      {
+        "id": "7enfoq6vrxvcwcf621",
+        "name": "Drinks",
+        "parentId": "xclm5ncjrmwr9tlkxn",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/drinks-46769"
+        }
+      },
+      {
+        "id": "5msqfcziw7phr6ygz0",
+        "name": "Edibles",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/edibles-40493"
+        }
+      },
+      {
+        "id": "qarxnut45752k7bdkl",
+        "name": "Candy",
+        "parentId": "5msqfcziw7phr6ygz0",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/candy-46729"
+        }
+      },
+      {
+        "id": "wsaca0ktigorxvd0bj",
+        "name": "Gummies",
+        "parentId": "5msqfcziw7phr6ygz0",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/gummies-46730"
+        }
+      },
+      {
+        "id": "868uh3vhbj7d2t1aoy",
+        "name": "Cooking",
+        "parentId": "5msqfcziw7phr6ygz0",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/cooking-46731"
+        }
+      },
+      {
+        "id": "8o1uh3vhbj7d2t1aoy",
+        "name": "Chocolate",
+        "parentId": "5msqfcziw7phr6ygz0",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/chocolate-46732"
+        }
+      },
+      {
+        "id": "7thfoq6vrxvcwcf621",
+        "name": "Chews",
+        "parentId": "5msqfcziw7phr6ygz0",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/chews-46733"
+        }
+      },
+      {
+        "id": "qw5xnut45752k7bdkl",
+        "name": "Hemp",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/hemp-46765"
+        }
+      },
+      {
+        "id": "u92167yq03b5ubcka6",
+        "name": "Oral",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/oral-46762"
+        }
+      },
+      {
+        "id": "mgsb6diowwqtnucs9j",
+        "name": "Capsules",
+        "parentId": "u92167yq03b5ubcka6",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/capsules-46774"
+        }
+      },
+      {
+        "id": "yhtghkxzkl3fumh1qr",
+        "name": "Tablets",
+        "parentId": "u92167yq03b5ubcka6",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/tablets-46775"
+        }
+      },
+      {
+        "id": "48tdzolfjk8ipj6z9i",
+        "name": "Pet",
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/pet-46764"
+        }
+      }
+    ],
+    "brands": [
+      {
+        "id": "nerkwalazk1of1c9er",
+        "name": "High Supply",
+        "images": []
+      },
+      {
+        "id": "j6mp4uqcuy0v1ayfh",
+        "name": "Lehua Leaf Co.",
+        "images": []
+      },
+      {
+        "id": "n26kbldzk1of1c9er",
+        "name": "Ohana Organics",
+        "images": []
+      },
+      {
+        "id": "qcnxptk5752k7bdkl",
+        "name": "Kona Kine Farms",
+        "images": []
+      },
+      {
+        "id": "tp5e847pl6nplprp6",
+        "name": "Ulu Growers",
+        "images": []
+      },
+      {
+        "id": "0sza9kpys4qsdturc",
+        "name": "Pua Provisions",
+        "images": []
+      },
+      {
+        "id": "4ubdjlujk8ipj6z9i",
+        "name": "Maui Mana",
+        "images": []
+      },
+      {
+        "id": "wf8cvk8igorxvd0bj",
+        "name": "Kai Botanicals",
+        "images": []
+      },
+      {
+        "id": "a7uwfwhwpdng1o0cc",
+        "name": "Koa Creek Co.",
+        "images": []
+      },
+      {
+        "id": "e804ywxlx7fhsbo8r",
+        "name": "Honu Bay Labs",
+        "images": []
+      },
+      {
+        "id": "ixk6u37wbske8uoi1",
+        "name": "Haleakala Harvest",
+        "images": []
+      }
+    ],
+    "strains": [
+      {
+        "id": "ez34x3walx7fhsbo8r",
+        "name": "Pineapple Express",
+        "prevalence": "Hybrid"
+      },
+      {
+        "id": "v47hqadq5b77zgdxhp",
+        "name": "Ohana Gelato",
+        "prevalence": "Sativa"
+      },
+      {
+        "id": "iql62o36wbske8uoi1",
+        "name": "Mauna Loa Kush",
+        "prevalence": "Sativa"
+      },
+      {
+        "id": "qwqxiftp5752k7bdkl",
+        "name": "Waikiki Wave",
+        "prevalence": "Indica"
+      },
+      {
+        "id": "4uzdahl6jk8ipj6z9i",
+        "name": "Koa Gold",
+        "prevalence": "Sativa"
+      },
+      {
+        "id": "4u2dahl6jk8ipj6z9i",
+        "name": "Kona Kush Breeze",
+        "prevalence": "Hybrid"
+      },
+      {
+        "id": "wf3c5wkqigorxvd0bj",
+        "name": "Pineapple Ulu",
+        "prevalence": "Hybrid"
+      },
+      {
+        "id": "tp2esa45pl6nplprp6",
+        "name": "Pele's Fire",
+        "prevalence": "Sativa"
+      },
+      {
+        "id": "a7swc5wnwpdng1o0cc",
+        "name": "Honu Haze",
+        "prevalence": "Hybrid"
+      },
+      {
+        "id": "899uf1vrbj7d2t1aoy",
+        "name": "Haleakala Haze",
+        "prevalence": "Hybrid"
+      },
+      {
+        "id": "5wcqltz8w7phr6ygz0",
+        "name": "Plumeria Punch",
+        "prevalence": "Sativa"
+      }
+    ],
+    "qualityLines": [
+      {
+        "id": "rwl5mhtcnfcxdgzqf3",
+        "name": "Bronze"
+      },
+      {
+        "id": "euh4u4wwlx7fhsbo8r",
+        "name": "Silver"
+      },
+      {
+        "id": "njfkxplqzk1of1c9er",
+        "name": "Gold"
+      }
+    ],
+    "productTypes": [
+      {
+        "id": "h45na8v08zvawm7z3d",
+        "name": "Lighter"
+      },
+      {
+        "id": "86uwbv4bj7d2t1aoy",
+        "name": "Flower"
+      },
+      {
+        "id": "sp7u2my8qudwtxwcd",
+        "name": "Accessory"
+      },
+      {
+        "id": "97rcky6tmbkpl3ca4",
+        "name": "Apparel"
+      },
+      {
+        "id": "15l6rwmzgkqhp5a4e",
+        "name": "Beverage"
+      },
+      {
+        "id": "7tfnd6lrxvcwcf621",
+        "name": "Edible"
+      },
+      {
+        "id": "of9fmpotlvbg1vbdg",
+        "name": "Hemp"
+      },
+      {
+        "id": "gd3jr4z5xe9h6k6hz",
+        "name": "Oral"
+      },
+      {
+        "id": "38s4r9x9v97p5ig5e",
+        "name": "Pet"
+      }
+    ],
+    "promotions": [
+      {
+        "id": "rwh5mstcnfcxdgzqf3",
+        "name": "Early Bird",
+        "filters": [
+          {
+            "key": "promotion",
+            "values": [
+              "rwh5mstcnfcxdgzqf3"
+            ]
+          }
+        ],
+        "schedule": "Daily, 07:00 AM - 10:00 AM"
+      },
+      {
+        "id": "u5x1dsyq03b5ubcka6",
+        "name": "10% Off Everythi",
+        "filters": [
+          {
+            "key": "promotion",
+            "values": [
+              "u5x1dsyq03b5ubcka6"
+            ]
+          }
+        ],
+        "schedule": "Sun/Thu-Sat"
+      }
+    ]
+  },
+  "filters": [
+    {
+      "key": "quickFilter",
+      "name": "",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Deals",
+          "value": "oq9epptlvbg1vbdg"
+        }
+      ]
+    },
+    {
+      "key": "strainPrevalence",
+      "name": "Strain prevalence",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Hybrid",
+          "value": "oq9epptlvbg1vbdg"
+        },
+        {
+          "name": "Indica",
+          "value": "jiptukcuy0v1ayfh"
+        },
+        {
+          "name": "Sativa",
+          "value": "h2ngv78zvawm7z3d"
+        }
+      ]
+    },
+    {
+      "key": "category",
+      "name": "Category",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Accessories",
+          "value": "td5exd4spl6nplprp6"
+        },
+        {
+          "name": "Apparel",
+          "value": "6x1ofzra8muuzosl27"
+        },
+        {
+          "name": "Beverage",
+          "value": "xclm5ncjrmwr9tlkxn"
+        },
+        {
+          "name": "Edibles",
+          "value": "5msqfcziw7phr6ygz0"
+        },
+        {
+          "name": "Flower",
+          "value": "k4itylpt08lsofnlvc"
+        },
+        {
+          "name": "Gift Card",
+          "value": "0czalrkqys4qsdturc"
+        },
+        {
+          "name": "Hemp",
+          "value": "qw5xnut45752k7bdkl"
+        },
+        {
+          "name": "Oral",
+          "value": "u92167yq03b5ubcka6"
+        },
+        {
+          "name": "Pet",
+          "value": "48tdzolfjk8ipj6z9i"
+        },
+        {
+          "name": "Pre-Rolls",
+          "value": "aydwlhwawpdng1o0cc"
+        },
+        {
+          "name": "Tinctures",
+          "value": "035a7mkqys4qsdturc"
+        },
+        {
+          "name": "Topicals",
+          "value": "cfxyre8wyxevp1hykb"
+        }
+      ]
+    },
+    {
+      "key": "promotion",
+      "name": "Deal",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "10% Off Everythi",
+          "value": "u5x1dsyq03b5ubcka6"
+        },
+        {
+          "name": "Early Bird",
+          "value": "rwh5mstcnfcxdgzqf3"
+        }
+      ]
+    },
+    {
+      "key": "subcategory",
+      "name": "Subcategory",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Baked Goods",
+          "value": "ji1pk7ukcuy0v1ayfh"
+        },
+        {
+          "name": "Balms",
+          "value": "d1rz75kuqokes943ky"
+        },
+        {
+          "name": "Batteries",
+          "value": "2l7jf26xlywrdeq5ke"
+        },
+        {
+          "name": "Beverage Infusions",
+          "value": "89luh3vhbj7d2t1aoy"
+        },
+        {
+          "name": "Candy",
+          "value": "qarxnut45752k7bdkl"
+        },
+        {
+          "name": "Capsules",
+          "value": "mgsb6diowwqtnucs9j"
+        },
+        {
+          "name": "Chews",
+          "value": "7thfoq6vrxvcwcf621"
+        },
+        {
+          "name": "Chocolate",
+          "value": "8o1uh3vhbj7d2t1aoy"
+        },
+        {
+          "name": "Cleaning",
+          "value": "r0j56ftcnfcxdgzqf3"
+        },
+        {
+          "name": "Cooking",
+          "value": "868uh3vhbj7d2t1aoy"
+        },
+        {
+          "name": "Devices",
+          "value": "5a2qhaziw7phr6ygz0"
+        },
+        {
+          "name": "Drinks",
+          "value": "7enfoq6vrxvcwcf621"
+        },
+        {
+          "name": "Flower",
+          "value": "6quofzra8muuzosl27"
+        },
+        {
+          "name": "Grinders",
+          "value": "1rhlt5w6zgkqhp5a4e"
+        },
+        {
+          "name": "Ground",
+          "value": "xw1m5ncjrmwr9tlkxn"
+        },
+        {
+          "name": "Gummies",
+          "value": "wsaca0ktigorxvd0bj"
+        },
+        {
+          "name": "Hats",
+          "value": "w7wca0ktigorxvd0bj"
+        },
+        {
+          "name": "Infused",
+          "value": "uoz167yq03b5ubcka6"
+        },
+        {
+          "name": "Infused Packs",
+          "value": "hdrn08v78zvawm7z3d"
+        },
+        {
+          "name": "Infused Singles",
+          "value": "l5sixske24ep32eh73"
+        },
+        {
+          "name": "Lighters",
+          "value": "ep341swwlx7fhsbo8r"
+        },
+        {
+          "name": "Lotions",
+          "value": "90sr8mygtmbkpl3ca4"
+        },
+        {
+          "name": "Mixed Buds",
+          "value": "0gra7mkqys4qsdturc"
+        },
+        {
+          "name": "Mixes",
+          "value": "j6lpk7ukcuy0v1ayfh"
+        },
+        {
+          "name": "Packs",
+          "value": "feivx2t9kxrkg2jxqk"
+        },
+        {
+          "name": "Pipes",
+          "value": "1r7lt5w6zgkqhp5a4e"
+        },
+        {
+          "name": "Powders",
+          "value": "stk73qmf8qudwtxwcd"
+        },
+        {
+          "name": "Rolling",
+          "value": "bgp0r1w1antwpb9yap"
+        },
+        {
+          "name": "Serums",
+          "value": "gnp3qi4p5xe9h6k6hz"
+        },
+        {
+          "name": "Shake",
+          "value": "zuv22mjs9510wipke7"
+        },
+        {
+          "name": "Shirts",
+          "value": "891uh3vhbj7d2t1aoy"
+        },
+        {
+          "name": "Shots",
+          "value": "obb9rqpptlvbg1vbdg"
+        },
+        {
+          "name": "Singles",
+          "value": "u9c167yq03b5ubcka6"
+        },
+        {
+          "name": "Skincare",
+          "value": "ury167yq03b5ubcka6"
+        },
+        {
+          "name": "Small Flower",
+          "value": "4pkdzolfjk8ipj6z9i"
+        },
+        {
+          "name": "Sprays",
+          "value": "ixa6743bwbske8uoi1"
+        },
+        {
+          "name": "Storage",
+          "value": "v45hf0d15b77zgdxhp"
+        },
+        {
+          "name": "Syrups",
+          "value": "a7fwqkwawpdng1o0cc"
+        },
+        {
+          "name": "Tablets",
+          "value": "yhtghkxzkl3fumh1qr"
+        },
+        {
+          "name": "Tinctures",
+          "value": "3kzsza9e9v97p5ig5e"
+        },
+        {
+          "name": "Trim",
+          "value": "c7qyre8wyxevp1hykb"
+        }
+      ]
+    },
+    {
+      "key": "productType",
+      "name": "Product type",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Accessory",
+          "value": "sp7u2my8qudwtxwcd"
+        },
+        {
+          "name": "Apparel",
+          "value": "97rcky6tmbkpl3ca4"
+        },
+        {
+          "name": "Beverage",
+          "value": "15l6rwmzgkqhp5a4e"
+        },
+        {
+          "name": "Edible",
+          "value": "7tfnd6lrxvcwcf621"
+        },
+        {
+          "name": "Flower",
+          "value": "86uwbv4bj7d2t1aoy"
+        },
+        {
+          "name": "Hemp",
+          "value": "of9fmpotlvbg1vbdg"
+        },
+        {
+          "name": "Lighter",
+          "value": "h45na8v08zvawm7z3d"
+        },
+        {
+          "name": "Oral",
+          "value": "gd3jr4z5xe9h6k6hz"
+        },
+        {
+          "name": "Pet",
+          "value": "38s4r9x9v97p5ig5e"
+        },
+        {
+          "name": "Pre-Roll",
+          "value": "6yoxqr38muuzosl27"
+        },
+        {
+          "name": "Tincture",
+          "value": "um1nty803b5ubcka6"
+        },
+        {
+          "name": "Topical",
+          "value": "hjnlav08zvawm7z3d"
+        }
+      ]
+    },
+    {
+      "key": "totalSize",
+      "name": "Total size",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "0.3g",
+          "value": "ske7u9mm8abudwtxwcd"
+        },
+        {
+          "name": "0.4g",
+          "value": "julpxvudlcozyp5v27a1hfa3"
+        },
+        {
+          "name": "0.5g",
+          "value": "fdtv9ts5k0orcogudjemqbd"
+        },
+        {
+          "name": "0.75g",
+          "value": "qydxaet385p25xska5btxkgf"
+        },
+        {
+          "name": "0.7g",
+          "value": "ez94yw4rlr67fhsbo8r"
+        },
+        {
+          "name": "0.85g",
+          "value": "a3uwkgwqvw8qdng1o0cc"
+        },
+        {
+          "name": "0.8g",
+          "value": "r0u5xhth8nskcxdgzqf3"
+        },
+        {
+          "name": "1.16g",
+          "value": "m33bf4ipgw7yqtnucs9j"
+        },
+        {
+          "name": "1.1g",
+          "value": "86huelv4nbqq7ze2y318sofg"
+        },
+        {
+          "name": "1.25g",
+          "value": "3hksrn9i92d9akpd7iri5d6"
+        },
+        {
+          "name": "1.2g",
+          "value": "nzzkx6ld4zr1of1c9er"
+        },
+        {
+          "name": "1.3g",
+          "value": "f45vp8tf8k07rcogudjemqbd"
+        },
+        {
+          "name": "1.5g",
+          "value": "qgcxu3tkv5wr52k7bdkl"
+        },
+        {
+          "name": "1.6g",
+          "value": "w31caak8piuvorxvd0bj"
+        },
+        {
+          "name": "1.75g",
+          "value": "wf0csqkxwixkop5xt3d6xb0v"
+        },
+        {
+          "name": "1.8g",
+          "value": "xgzmpcxjrenwr9tlkxn"
+        },
+        {
+          "name": "10.2g",
+          "value": "flvxdtfqk07rcogudjemqbd"
+        },
+        {
+          "name": "100mg",
+          "value": "88u3evsbwy7ze2y318sofg"
+        },
+        {
+          "name": "10g",
+          "value": "5mrqxxzv4wrip84rl0y2lz3e"
+        },
+        {
+          "name": "10mg",
+          "value": "48dw1llbjh58ipj6z9i"
+        },
+        {
+          "name": "12g",
+          "value": "n4tkywl08z6t1of1c9er"
+        },
+        {
+          "name": "14g",
+          "value": "tweso40ipc16bwp96plop0r"
+        },
+        {
+          "name": "150mg",
+          "value": "o5e9qrpont3tvbg1vbdg"
+        },
+        {
+          "name": "16oz",
+          "value": "bg202wr6actwpb9yap"
+        },
+        {
+          "name": "1ea",
+          "value": "0fwa7uk57yvv4ynsfxtqvrgx"
+        },
+        {
+          "name": "1g",
+          "value": "yh7gayx4kg738cu14hfxq4l"
+        },
+        {
+          "name": "1oz",
+          "value": "dlpzbxk5yqm0kes943ky"
+        },
+        {
+          "name": "2.01g",
+          "value": "qbfxyt835lf5xska5btxkgf"
+        },
+        {
+          "name": "2.25g",
+          "value": "eur4xmwr9luu7lahw4b0y89o"
+        },
+        {
+          "name": "2.5g",
+          "value": "imp6243xnwz5sxle1eu2dit7"
+        },
+        {
+          "name": "20mg",
+          "value": "ag4wgsw6wtdng1o0cc"
+        },
+        {
+          "name": "20ml",
+          "value": "skp75pmhz8oiudwtxwcd"
+        },
+        {
+          "name": "25mg",
+          "value": "bcf0sowzzaift2cphm9h8arc"
+        },
+        {
+          "name": "28g",
+          "value": "obc94lpxkts0vbg1vbdg"
+        },
+        {
+          "name": "2g",
+          "value": "87uenv4pblj7ze2y318sofg"
+        },
+        {
+          "name": "2oz",
+          "value": "afywqcwvyw8dng1o0cc"
+        },
+        {
+          "name": "3.48g",
+          "value": "y6gqvxapknk3fumh1qr"
+        },
+        {
+          "name": "3.5g",
+          "value": "c7ayr8vsy2evp1hykb"
+        },
+        {
+          "name": "3.75g",
+          "value": "p1w8x0vuo8ha0xck5e991427"
+        },
+        {
+          "name": "300mg",
+          "value": "fqviht3k7mrkg2jxqk"
+        },
+        {
+          "name": "30ml",
+          "value": "j9lpc1u76c40y0v1ayfh"
+        },
+        {
+          "name": "3g",
+          "value": "9bzr8uyyut8ibkpl3ca4"
+        },
+        {
+          "name": "4.2g",
+          "value": "u5l168ypr0fkbzvukrcj5aou"
+        },
+        {
+          "name": "45mg",
+          "value": "ju9pxsuq2cr9yp5v27a1hfa3"
+        },
+        {
+          "name": "4g",
+          "value": "891u89vmjblt7ze2y318sofg"
+        },
+        {
+          "name": "4oz",
+          "value": "r45ubtf5nwlcz6d4kz63f4m"
+        },
+        {
+          "name": "50mg",
+          "value": "2lvjt369dlxowrdeq5ke"
+        },
+        {
+          "name": "5g",
+          "value": "bw80xw4oayct2cphm9h8arc"
+        },
+        {
+          "name": "5mg",
+          "value": "u551ttyxe011b5ubcka6"
+        },
+        {
+          "name": "6.25g",
+          "value": "iri66g3v7wqbsxle1eu2dit7"
+        },
+        {
+          "name": "600mg",
+          "value": "8r3usvlcbm7d2t1aoy"
+        },
+        {
+          "name": "60ml",
+          "value": "mgjb6fic4w20qlon8ncom9c2"
+        },
+        {
+          "name": "750mg",
+          "value": "kdrt55pay0cslezolsneovwm"
+        },
+        {
+          "name": "75mg",
+          "value": "hjdn2kv4g87zvawm7z3d"
+        },
+        {
+          "name": "7g",
+          "value": "26tjp6swl8ow8kd9bq12kzy"
+        },
+        {
+          "name": "8oz",
+          "value": "3hcs4m9xm9wx9akpd7iri5d6"
+        }
+      ]
+    },
+    {
+      "key": "unitSize",
+      "name": "Unit size",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "0.25g",
+          "value": "kntt4py08lsofnlvc"
+        },
+        {
+          "name": "0.35g",
+          "value": "c37yij8nyxevp1hykb"
+        },
+        {
+          "name": "0.3g",
+          "value": "x00md1csrmwr9tlkxn"
+        },
+        {
+          "name": "0.45g",
+          "value": "pe8sjvj8v0qk69548"
+        },
+        {
+          "name": "0.4g",
+          "value": "ht2nzqvl8zvawm7z3d"
+        },
+        {
+          "name": "0.58g",
+          "value": "ma7bzgiiwwqtnucs9j"
+        },
+        {
+          "name": "0.5g",
+          "value": "3vasj29i9v97p5ig5e"
+        },
+        {
+          "name": "0.67g",
+          "value": "aqwg4wqwpdng1o0cc"
+        },
+        {
+          "name": "0.6g",
+          "value": "6lo5yrd8muuzosl27"
+        },
+        {
+          "name": "0.75g",
+          "value": "3fvsjy9i9v97p5ig5e"
+        },
+        {
+          "name": "0.7g",
+          "value": "lli6yks24ep32eh73"
+        },
+        {
+          "name": "0.85g",
+          "value": "8l5u8uvjbj7d2t1aoy"
+        },
+        {
+          "name": "0.8g",
+          "value": "netkhulszk1of1c9er"
+        },
+        {
+          "name": "1.16g",
+          "value": "vk8hh1dj5b77zgdxhp"
+        },
+        {
+          "name": "1.1g",
+          "value": "gq3bx4m5xe9h6k6hz"
+        },
+        {
+          "name": "1.25g",
+          "value": "qlxzstw5752k7bdkl"
+        },
+        {
+          "name": "1.3g",
+          "value": "61o5yrd8muuzosl27"
+        },
+        {
+          "name": "1.5g",
+          "value": "i9a6gx32wbske8uoi1"
+        },
+        {
+          "name": "1.75g",
+          "value": "oj98vp2tlvbg1vbdg"
+        },
+        {
+          "name": "1.8g",
+          "value": "sc7jxmq8qudwtxwcd"
+        },
+        {
+          "name": "100mg",
+          "value": "z8v2s9jq9510wipke7"
+        },
+        {
+          "name": "10mg",
+          "value": "oy98vp2tlvbg1vbdg"
+        },
+        {
+          "name": "14g",
+          "value": "agawgbwqwpdng1o0cc"
+        },
+        {
+          "name": "16oz",
+          "value": "tdoebv4ypl6nplprp6"
+        },
+        {
+          "name": "1g",
+          "value": "5b6qpxzbw7phr6ygz0"
+        },
+        {
+          "name": "1mg",
+          "value": "y8gadxtkl3fumh1qr"
+        },
+        {
+          "name": "1oz",
+          "value": "0jaa6kays4qsdturc"
+        },
+        {
+          "name": "2.5g",
+          "value": "7mfrg6orxvcwcf621"
+        },
+        {
+          "name": "2.5mg",
+          "value": "t6ebv4ypl6nplprp6"
+        },
+        {
+          "name": "20ml",
+          "value": "un159y703b5ubcka6"
+        },
+        {
+          "name": "25mg",
+          "value": "9fro7yntmbkpl3ca4"
+        },
+        {
+          "name": "2g",
+          "value": "he7nz7vl8zvawm7z3d"
+        },
+        {
+          "name": "2mg",
+          "value": "r75xatynfcxdgzqf3"
+        },
+        {
+          "name": "2oz",
+          "value": "1flkiwgzgkqhp5a4e"
+        },
+        {
+          "name": "3.125mg",
+          "value": "eq4a6w4lx7fhsbo8r"
+        },
+        {
+          "name": "3.5g",
+          "value": "dpezuckhqokes943ky"
+        },
+        {
+          "name": "3.75g",
+          "value": "5mwqpkzbw7phr6ygz0"
+        },
+        {
+          "name": "30ml",
+          "value": "jsp35u9cuy0v1ayfh"
+        },
+        {
+          "name": "3g",
+          "value": "fnevajtskxrkg2jxqk"
+        },
+        {
+          "name": "4.5mg",
+          "value": "9nro7yntmbkpl3ca4"
+        },
+        {
+          "name": "4oz",
+          "value": "bp0jqw4antwpb9yap"
+        },
+        {
+          "name": "50mg",
+          "value": "45dw6lljk8ipj6z9i"
+        },
+        {
+          "name": "5mg",
+          "value": "xa1mdscsrmwr9tlkxn"
+        },
+        {
+          "name": "60ml",
+          "value": "wics2kxigorxvd0bj"
+        },
+        {
+          "name": "7g",
+          "value": "ag0wgbwqwpdng1o0cc"
+        },
+        {
+          "name": "8oz",
+          "value": "o5g98vp2tlvbg1vbdg"
+        },
+        {
+          "name": "Each",
+          "value": "byw0jzw4antwpb9yap"
+        },
+        {
+          "name": "L",
+          "value": "ysugadxtkl3fumh1qr"
+        },
+        {
+          "name": "M",
+          "value": "ezx4a6w4lx7fhsbo8r"
+        },
+        {
+          "name": "One Size",
+          "value": "0cpaa6kays4qsdturc"
+        },
+        {
+          "name": "S",
+          "value": "9qvro7yntmbkpl3ca4"
+        },
+        {
+          "name": "XL",
+          "value": "9qkro7yntmbkpl3ca4"
+        }
+      ]
+    },
+    {
+      "key": "thcRange",
+      "name": "THC potency",
+      "type": "range",
+      "options": [
+        {
+          "name": "Min",
+          "value": 0
+        },
+        {
+          "name": "Max",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "key": "cbdRange",
+      "name": "CBD potency",
+      "type": "range",
+      "options": [
+        {
+          "name": "Min",
+          "value": 0
+        },
+        {
+          "name": "Max",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "key": "effect",
+      "name": "Effect",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Calming",
+          "value": "lxzibke24ep32eh73"
+        },
+        {
+          "name": "Euphoric",
+          "value": "kpft2pt08lsofnlvc"
+        },
+        {
+          "name": "Focused",
+          "value": "gk53m4p5xe9h6k6hz"
+        },
+        {
+          "name": "Hungry",
+          "value": "9ajrtygtmbkpl3ca4"
+        },
+        {
+          "name": "Relaxed",
+          "value": "sea7bmf8qudwtxwcd"
+        },
+        {
+          "name": "Sneaky",
+          "value": "xg5macjrmwr9tlkxn"
+        }
+      ]
+    },
+    {
+      "key": "brand",
+      "name": "Brand",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Haleakala Harvest",
+          "value": "ixk6u37wbske8uoi1"
+        },
+        {
+          "name": "High Supply",
+          "value": "nerkwalazk1of1c9er"
+        },
+        {
+          "name": "Honu Bay Labs",
+          "value": "e804ywxlx7fhsbo8r"
+        },
+        {
+          "name": "Kai Botanicals",
+          "value": "wf8cvk8igorxvd0bj"
+        },
+        {
+          "name": "Koa Creek Co.",
+          "value": "a7uwfwhwpdng1o0cc"
+        },
+        {
+          "name": "Kona Kine Farms",
+          "value": "qcnxptk5752k7bdkl"
+        },
+        {
+          "name": "Lehua Leaf Co.",
+          "value": "j6mp4uqcuy0v1ayfh"
+        },
+        {
+          "name": "Maui Mana",
+          "value": "4ubdjlujk8ipj6z9i"
+        },
+        {
+          "name": "Ohana Organics",
+          "value": "n26kbldzk1of1c9er"
+        },
+        {
+          "name": "Pua Provisions",
+          "value": "0sza9kpys4qsdturc"
+        },
+        {
+          "name": "Ulu Growers",
+          "value": "tp5e847pl6nplprp6"
+        }
+      ]
+    },
+    {
+      "key": "price",
+      "name": "Price",
+      "type": "range",
+      "options": [
+        {
+          "name": "Min",
+          "value": 0
+        },
+        {
+          "name": "Max",
+          "value": 208
+        }
+      ]
+    },
+    {
+      "key": "strain",
+      "name": "Strain",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Aloha Ice",
+          "value": "hz1n29vh8zvawm7z3d"
+        },
+        {
+          "name": "Haleakala Haze",
+          "value": "899uf1vrbj7d2t1aoy"
+        },
+        {
+          "name": "Hana Hustle",
+          "value": "oba94bp3tlvbg1vbdg"
+        },
+        {
+          "name": "Hilo Haze",
+          "value": "e8r4x9whlx7fhsbo8r"
+        },
+        {
+          "name": "Honu Haze",
+          "value": "a7swc5wnwpdng1o0cc"
+        },
+        {
+          "name": "Kaanapali Kush",
+          "value": "0snafskvys4qsdturc"
+        },
+        {
+          "name": "Kauai Kiss",
+          "value": "mg7blpi4wwqtnucs9j"
+        },
+        {
+          "name": "Kilauea Kush",
+          "value": "2iwjqj6elywrdeq5ke"
+        },
+        {
+          "name": "Koa Gold",
+          "value": "4uzdahl6jk8ipj6z9i"
+        },
+        {
+          "name": "Kona Kush Breeze",
+          "value": "4u2dahl6jk8ipj6z9i"
+        },
+        {
+          "name": "Lanai Sunrise",
+          "value": "yhigtex1kl3fumh1qr"
+        },
+        {
+          "name": "Lava Flow OG",
+          "value": "b3e05hwyantwpb9yap"
+        },
+        {
+          "name": "Lehua Lightning",
+          "value": "zlc20uje9510wipke7"
+        },
+        {
+          "name": "Mana Mints",
+          "value": "ura1ofyn03b5ubcka6"
+        },
+        {
+          "name": "Mauna Loa Kush",
+          "value": "iql62o36wbske8uoi1"
+        },
+        {
+          "name": "Molokai Moon",
+          "value": "cvpyqs8syxevp1hykb"
+        },
+        {
+          "name": "Nene Nectar",
+          "value": "j65pcouycuy0v1ayfh"
+        },
+        {
+          "name": "Ohana Gelato",
+          "value": "v47hqadq5b77zgdxhp"
+        },
+        {
+          "name": "Pele's Fire",
+          "value": "tp2esa45pl6nplprp6"
+        },
+        {
+          "name": "Pineapple Express",
+          "value": "ez34x3walx7fhsbo8r"
+        },
+        {
+          "name": "Pineapple Ulu",
+          "value": "wf3c5wkqigorxvd0bj"
+        },
+        {
+          "name": "Plumeria Punch",
+          "value": "5wcqltz8w7phr6ygz0"
+        },
+        {
+          "name": "Waikiki Wave",
+          "value": "qwqxiftp5752k7bdkl"
+        },
+        {
+          "name": "Waimea Wonder",
+          "value": "d1mzwxk0qokes943ky"
+        }
+      ]
+    },
+    {
+      "key": "qualityLine",
+      "name": "Quality line",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Bronze",
+          "value": "rwl5mhtcnfcxdgzqf3"
+        },
+        {
+          "name": "Gold",
+          "value": "njfkxplqzk1of1c9er"
+        },
+        {
+          "name": "Silver",
+          "value": "euh4u4wwlx7fhsbo8r"
+        }
+      ]
+    },
+    {
+      "key": "flavoring",
+      "name": "Flavoring",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Coconut",
+          "value": "4u5dwnlfjk8ipj6z9i"
+        },
+        {
+          "name": "Ginger",
+          "value": "u5515qyq03b5ubcka6"
+        },
+        {
+          "name": "Guava",
+          "value": "rad5x8tcnfcxdgzqf3"
+        },
+        {
+          "name": "Haupia",
+          "value": "zlb2sxjs9510wipke7"
+        },
+        {
+          "name": "Hibiscus",
+          "value": "5w6qpmziw7phr6ygz0"
+        },
+        {
+          "name": "Kava",
+          "value": "eup4a2wwlx7fhsbo8r"
+        },
+        {
+          "name": "Kiawe Honey",
+          "value": "3kisjb9e9v97p5ig5e"
+        },
+        {
+          "name": "Kona Coffee",
+          "value": "tpyebh4spl6nplprp6"
+        },
+        {
+          "name": "Kukui",
+          "value": "9acro1ygtmbkpl3ca4"
+        },
+        {
+          "name": "Lehua",
+          "value": "kjstt6pt08lsofnlvc"
+        },
+        {
+          "name": "Lehua Berry",
+          "value": "2iyjxh6xlywrdeq5ke"
+        },
+        {
+          "name": "Lemon Ginger",
+          "value": "hzvnztv78zvawm7z3d"
+        },
+        {
+          "name": "Li Hing Mango",
+          "value": "0s4aajkqys4qsdturc"
+        },
+        {
+          "name": "Lilikoi",
+          "value": "ixe6gn3bwbske8uoi1"
+        },
+        {
+          "name": "Lychee",
+          "value": "vdwhhyd15b77zgdxhp"
+        },
+        {
+          "name": "Macadamia Nut",
+          "value": "yh8gajxzkl3fumh1qr"
+        },
+        {
+          "name": "Mango",
+          "value": "obp98ypptlvbg1vbdg"
+        },
+        {
+          "name": "Maui Honey",
+          "value": "dlpzu6kuqokes943ky"
+        },
+        {
+          "name": "Maui Mint",
+          "value": "lq4i6uke24ep32eh73"
+        },
+        {
+          "name": "Mint",
+          "value": "zle2sxjs9510wipke7"
+        },
+        {
+          "name": "Moringa",
+          "value": "p9x8spv98v0qk69548"
+        },
+        {
+          "name": "Noni",
+          "value": "dljzu6kuqokes943ky"
+        },
+        {
+          "name": "Ohia",
+          "value": "bsv0j8w1antwpb9yap"
+        },
+        {
+          "name": "Ohia Honey",
+          "value": "xgbmdkcjrmwr9tlkxn"
+        },
+        {
+          "name": "Papaya",
+          "value": "15wlkew6zgkqhp5a4e"
+        },
+        {
+          "name": "Passion Lemonade",
+          "value": "gn63b04p5xe9h6k6hz"
+        },
+        {
+          "name": "Passionfruit",
+          "value": "89ju8lvhbj7d2t1aoy"
+        },
+        {
+          "name": "Pineapple",
+          "value": "2isjxh6xlywrdeq5ke"
+        },
+        {
+          "name": "Plumeria",
+          "value": "wvfcsyktigorxvd0bj"
+        },
+        {
+          "name": "Sea Moss",
+          "value": "qygxz8t45752k7bdkl"
+        },
+        {
+          "name": "Sea Salt Lime",
+          "value": "6m6o57ra8muuzosl27"
+        },
+        {
+          "name": "Turmeric",
+          "value": "ch7yi58wyxevp1hykb"
+        },
+        {
+          "name": "Ube",
+          "value": "j6cp3sukcuy0v1ayfh"
+        },
+        {
+          "name": "Vanilla",
+          "value": "mg9bzniowwqtnucs9j"
+        }
+      ]
+    },
+    {
+      "key": "scent",
+      "name": "Scent",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Aloe",
+          "value": "fevk2t9kxrkg2jxqk"
+        },
+        {
+          "name": "Coconut",
+          "value": "78fxq6vrxvcwcf621"
+        },
+        {
+          "name": "Ginger",
+          "value": "lqijske24ep32eh73"
+        },
+        {
+          "name": "Guava",
+          "value": "mpbbdiowwqtnucs9j"
+        },
+        {
+          "name": "Hibiscus",
+          "value": "07aymkqys4qsdturc"
+        },
+        {
+          "name": "Honey",
+          "value": "aiwbkwawpdng1o0cc"
+        },
+        {
+          "name": "Kava",
+          "value": "npkxclqzk1of1c9er"
+        },
+        {
+          "name": "Kona Coffee",
+          "value": "3ms2a9e9v97p5ig5e"
+        },
+        {
+          "name": "Kukui Nut",
+          "value": "wucp0ktigorxvd0bj"
+        },
+        {
+          "name": "Lemon",
+          "value": "q0cxant45752k7bdkl"
+        },
+        {
+          "name": "Lilikoi",
+          "value": "kbt79pt08lsofnlvc"
+        },
+        {
+          "name": "Mango",
+          "value": "2vji26xlywrdeq5ke"
+        },
+        {
+          "name": "Mango Butter",
+          "value": "ytgrkxzkl3fumh1qr"
+        },
+        {
+          "name": "Maui Honey",
+          "value": "z029mjs9510wipke7"
+        },
+        {
+          "name": "Noni",
+          "value": "tme1r4spl6nplprp6"
+        },
+        {
+          "name": "Ocean Breeze",
+          "value": "vchu0d15b77zgdxhp"
+        },
+        {
+          "name": "Ohia Lehua",
+          "value": "su7sqmf8qudwtxwcd"
+        },
+        {
+          "name": "Papaya",
+          "value": "og9cqpptlvbg1vbdg"
+        },
+        {
+          "name": "Pikake",
+          "value": "3zs2a9e9v97p5ig5e"
+        },
+        {
+          "name": "Pine",
+          "value": "kdlt7vpt08lsofnlvc"
+        },
+        {
+          "name": "Pine, Sea Salt",
+          "value": "yhygrtxzkl3fumh1qr"
+        },
+        {
+          "name": "Pineapple",
+          "value": "8nue3vhbj7d2t1aoy"
+        },
+        {
+          "name": "Pineapple Sage",
+          "value": "1blp5w6zgkqhp5a4e"
+        },
+        {
+          "name": "Plumeria",
+          "value": "9vrxmygtmbkpl3ca4"
+        },
+        {
+          "name": "Sea Salt",
+          "value": "rf5mftcnfcxdgzqf3"
+        },
+        {
+          "name": "Sweet Citrus",
+          "value": "4ydxolfjk8ipj6z9i"
+        },
+        {
+          "name": "Turmeric",
+          "value": "si7sqmf8qudwtxwcd"
+        }
+      ]
+    },
+    {
+      "key": "userTag",
+      "name": "Tag",
+      "type": "multiple",
+      "options": [
+        {
+          "name": "Aloha Collection",
+          "value": "qwgxahtr5752k7bdkl"
+        },
+        {
+          "name": "Island Grown",
+          "value": "z1o294jp9510wipke7"
+        },
+        {
+          "name": "Kun's Choice",
+          "value": "zlo29bjk9510wipke7"
+        },
+        {
+          "name": "Limited Batch",
+          "value": "9b0rxsyatmbkpl3ca4"
+        },
+        {
+          "name": "Limited Time",
+          "value": "xyumswcermwr9tlkxn"
+        },
+        {
+          "name": "Locally Grown",
+          "value": "f4mvk8txkxrkg2jxqk"
+        },
+        {
+          "name": "New Arrival",
+          "value": "iqm6zk3twbske8uoi1"
+        },
+        {
+          "name": "Staff Pick",
+          "value": "jiipxgubcuy0v1ayfh"
+        }
+      ]
+    }
+  ],
+  "sortingOptions": [
+    {
+      "value": "popularityDesc",
+      "name": "Most Popular"
+    },
+    {
+      "value": "priceDesc",
+      "name": "Price high to low"
+    },
+    {
+      "value": "priceAsc",
+      "name": "Price low to high"
+    },
+    {
+      "value": "alphabeticalAsc",
+      "name": "A-Z by Product"
+    },
+    {
+      "value": "alphabeticalDesc",
+      "name": "Z-A by Product"
+    },
+    {
+      "value": "createdDesc",
+      "name": "Newest first"
+    },
+    {
+      "value": "createdAsc",
+      "name": "Newest last"
+    },
+    {
+      "value": "thcPercentAsc",
+      "name": "THC% high to low"
+    },
+    {
+      "value": "thcPercentDesc",
+      "name": "THC% low to high"
+    },
+    {
+      "value": "thcMgAsc",
+      "name": "THC mg high to low"
+    },
+    {
+      "value": "thcMgDesc",
+      "name": "THC mg low to high"
+    }
+  ]
+}

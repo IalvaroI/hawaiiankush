@@ -1,0 +1,222 @@
+{
+  "items": [
+    {
+      "id": "41pdxalfjk8ipj6z9i",
+      "name": "Flower",
+      "filters": [
+        {
+          "key": "carousel",
+          "values": [
+            "41pdxalfjk8ipj6z9i"
+          ]
+        }
+      ],
+      "description": "",
+      "totalItems": 56,
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/carousel-flower-10709"
+      }
+    },
+    {
+      "id": "yvzgrkxzkl3fumh1qr",
+      "name": "Pre-Rolls",
+      "filters": [
+        {
+          "key": "carousel",
+          "values": [
+            "yvzgrkxzkl3fumh1qr"
+          ]
+        }
+      ],
+      "description": "",
+      "totalItems": 56,
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/carousel-pre-rolls-10904"
+      }
+    },
+    {
+      "id": "omf9cqpptlvbg1vbdg",
+      "name": "Edibles",
+      "filters": [
+        {
+          "key": "carousel",
+          "values": [
+            "omf9cqpptlvbg1vbdg"
+          ]
+        }
+      ],
+      "description": "",
+      "totalItems": 55,
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/carousel-edibles-10907"
+      }
+    },
+    {
+      "id": "1rclp5w6zgkqhp5a4e",
+      "name": "Topicals",
+      "filters": [
+        {
+          "key": "carousel",
+          "values": [
+            "1rclp5w6zgkqhp5a4e"
+          ]
+        }
+      ],
+      "description": "",
+      "totalItems": 147,
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/carousel-topicals-10905"
+      }
+    },
+    {
+      "id": "3n8s2a9e9v97p5ig5e",
+      "name": "Drinks",
+      "filters": [
+        {
+          "key": "carousel",
+          "values": [
+            "3n8s2a9e9v97p5ig5e"
+          ]
+        }
+      ],
+      "description": "",
+      "totalItems": 110,
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/carousel-drinks-10906"
+      }
+    },
+    {
+      "id": "7tifxq6vrxvcwcf621",
+      "name": "Tinctures",
+      "filters": [
+        {
+          "key": "carousel",
+          "values": [
+            "7tifxq6vrxvcwcf621"
+          ]
+        }
+      ],
+      "description": "",
+      "totalItems": 55,
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/carousel-tinctures-10908"
+      }
+    }
+  ],
+  "details": {
+    "41pdxalfjk8ipj6z9i": {
+      "carousel": {
+        "id": "41pdxalfjk8ipj6z9i",
+        "name": "Flower",
+        "filters": [
+          {
+            "key": "carousel",
+            "values": [
+              "41pdxalfjk8ipj6z9i"
+            ]
+          }
+        ],
+        "description": "",
+        "totalItems": 56,
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/carousel-flower-10709"
+        }
+      }
+    },
+    "yvzgrkxzkl3fumh1qr": {
+      "carousel": {
+        "id": "yvzgrkxzkl3fumh1qr",
+        "name": "Pre-Rolls",
+        "filters": [
+          {
+            "key": "carousel",
+            "values": [
+              "yvzgrkxzkl3fumh1qr"
+            ]
+          }
+        ],
+        "description": "",
+        "totalItems": 56,
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/carousel-pre-rolls-10904"
+        }
+      }
+    },
+    "omf9cqpptlvbg1vbdg": {
+      "carousel": {
+        "id": "omf9cqpptlvbg1vbdg",
+        "name": "Edibles",
+        "filters": [
+          {
+            "key": "carousel",
+            "values": [
+              "omf9cqpptlvbg1vbdg"
+            ]
+          }
+        ],
+        "description": "",
+        "totalItems": 55,
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/carousel-edibles-10907"
+        }
+      }
+    },
+    "1rclp5w6zgkqhp5a4e": {
+      "carousel": {
+        "id": "1rclp5w6zgkqhp5a4e",
+        "name": "Topicals",
+        "filters": [
+          {
+            "key": "carousel",
+            "values": [
+              "1rclp5w6zgkqhp5a4e"
+            ]
+          }
+        ],
+        "description": "",
+        "totalItems": 147,
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/carousel-topicals-10905"
+        }
+      }
+    },
+    "3n8s2a9e9v97p5ig5e": {
+      "carousel": {
+        "id": "3n8s2a9e9v97p5ig5e",
+        "name": "Drinks",
+        "filters": [
+          {
+            "key": "carousel",
+            "values": [
+              "3n8s2a9e9v97p5ig5e"
+            ]
+          }
+        ],
+        "description": "",
+        "totalItems": 110,
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/carousel-drinks-10906"
+        }
+      }
+    },
+    "7tifxq6vrxvcwcf621": {
+      "carousel": {
+        "id": "7tifxq6vrxvcwcf621",
+        "name": "Tinctures",
+        "filters": [
+          {
+            "key": "carousel",
+            "values": [
+              "7tifxq6vrxvcwcf621"
+            ]
+          }
+        ],
+        "description": "",
+        "totalItems": 55,
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/carousel-tinctures-10908"
+        }
+      }
+    }
+  }
+}

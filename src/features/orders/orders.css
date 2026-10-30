@@ -1,0 +1,124 @@
+/* Orders: history and order detail. Colours, type and spacing come from the tokens in src/styles.css. */
+
+.ord-page { min-height: 60vh; }
+.ord-wrap { display: flex; flex-direction: column; gap: var(--space-5); max-width: 960px; min-width: 0; margin: 0 auto; }
+.ord-muted { color: var(--muted); font-size: var(--text-sm); }
+
+/* Headings and states (sign in, empty, errors, not found) */
+.ord-head { display: flex; flex-direction: column; gap: var(--space-2); }
+.ord-head h1 { font-size: var(--text-2xl); font-weight: 500; line-height: 1.1; overflow-wrap: anywhere; }
+.ord-state { display: flex; flex-direction: column; align-items: flex-start; gap: var(--space-2); max-width: 520px; padding: var(--space-6) 0; }
+.ord-state h1 { font-size: var(--text-2xl); font-weight: 500; line-height: 1.1; }
+.ord-state h2 { font-size: var(--text-xl); font-weight: 500; }
+.ord-state p { margin: 0; color: var(--muted); }
+.ord-state-action { margin-top: var(--space-3); text-decoration: none; }
+
+/* History list */
+.ord-list { display: flex; flex-direction: column; gap: var(--space-3); margin: 0; padding: 0; list-style: none; }
+.ord-card { position: relative; display: flex; flex-direction: column; gap: var(--space-2); min-width: 0; padding: var(--space-4) var(--space-5); border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); box-shadow: 0 1px 2px #1c211d0a; transition: border-color .15s, box-shadow .2s; }
+.ord-card:hover { border-color: var(--line-strong); box-shadow: 0 10px 24px -16px #1c211d59; }
+.ord-card:has(.ord-card-link:focus-visible) { outline: 2px solid var(--focus); outline-offset: 2px; }
+.ord-card.is-skeleton { min-height: 96px; border-color: transparent; background: var(--sunken); box-shadow: none; }
+.ord-card-top { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--space-2) var(--space-3); }
+.ord-card-link { min-width: 0; font-family: var(--font-display); font-size: var(--text-lg); font-weight: 600; color: var(--ink); overflow-wrap: anywhere; text-decoration: none; }
+.ord-card-link::after { content: ''; position: absolute; inset: 0; border-radius: inherit; }
+.ord-card-link:hover { color: var(--accent); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.ord-card-link:focus-visible { outline: none; }
+.ord-card-meta { margin: 0; color: var(--muted); font-size: var(--text-sm); }
+.ord-card-foot { display: flex; align-items: baseline; justify-content: space-between; gap: var(--space-3); font-size: var(--text-sm); }
+.ord-card-total { font-size: var(--text-md); font-variant-numeric: tabular-nums; }
+.ord-more { display: flex; flex-direction: column; align-items: center; gap: var(--space-3); padding-top: var(--space-4); }
+.ord-more p { margin: 0; }
+
+/* Status pills: the words carry the meaning; the tone adds colour on top */
+.ord-pill { display: inline-flex; align-items: center; flex: none; height: 26px; padding: 0 var(--space-3); border: 1px solid transparent; border-radius: var(--radius-full); font-size: var(--text-xs); font-weight: 600; line-height: 1; white-space: nowrap; }
+.ord-pill.tone-active { border-color: #b9d8d3; background: var(--accent-soft); color: var(--accent); }
+.ord-pill.tone-ready { border-color: #e2a91f; background: var(--gold); color: var(--gold-ink); }
+.ord-pill.tone-done { border-color: #bcd6bc; background: #e3efe3; color: var(--strain-hybrid); }
+.ord-pill.tone-cancelled { border-color: #d3cdc4; background: #ebe8e4; color: #4f5654; }
+.ord-pill.tone-action { border-color: var(--cta); background: #fde3dd; color: #9a2f1f; }
+.ord-pill.tone-warn { border-color: #e6cf8f; background: var(--warn-bg); color: var(--warn-ink); }
+.ord-pill.tone-neutral { border-color: var(--line-strong); background: var(--sunken); color: var(--ink-hover); }
+
+/* Detail header and banners */
+.ord-detail-head { gap: var(--space-2); }
+.ord-back { display: inline-flex; align-items: center; gap: 6px; width: max-content; color: var(--muted); font-size: var(--text-sm); font-weight: 600; text-decoration: none; }
+.ord-back:hover { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.ord-title-row { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-2) var(--space-4); }
+.ord-banner { display: flex; flex-direction: column; gap: 2px; min-width: 0; padding: var(--space-4) var(--space-5); border: 1px solid; border-radius: var(--radius-md); }
+.ord-banner strong { font-size: var(--text-md); }
+.ord-banner p { margin: 0; font-size: var(--text-sm); overflow-wrap: anywhere; }
+.ord-banner.is-cancelled { border-color: #d3cdc4; background: #efebe6; color: var(--ink); }
+.ord-banner.is-action { border-color: var(--cta); background: #fde3dd; color: #6e2318; }
+
+/* Two columns from 900px: the progress and details on the left, payment and receipt on the right */
+.ord-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-5); align-items: start; }
+.ord-main, .ord-side { display: flex; flex-direction: column; gap: var(--space-5); min-width: 0; }
+@media (min-width: 900px) {
+  .ord-grid { grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); }
+}
+
+.ord-panel { display: flex; flex-direction: column; gap: var(--space-3); min-width: 0; padding: var(--space-5); border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); }
+.ord-panel h2 { font-size: var(--text-lg); font-weight: 600; line-height: 1.2; }
+.ord-panel > p { margin: 0; }
+.ord-fulfil-type { font-weight: 600; }
+.ord-address { color: var(--ink-hover); font-style: normal; line-height: 1.5; overflow-wrap: anywhere; }
+.ord-callout { margin: 0; color: var(--ink-hover); font-size: var(--text-sm); }
+.ord-callout strong { color: var(--ink); font-weight: 600; }
+.ord-note { display: flex; align-items: center; gap: 6px; margin: 0; color: var(--muted); font-size: var(--text-sm); }
+.ord-note.is-good { color: var(--strain-hybrid); font-weight: 600; }
+.ord-note.is-bad { color: var(--danger-ink); font-weight: 600; }
+.ord-wide { width: 100%; }
+
+/* Timeline: four steps, the current one ringed, earlier ones ticked */
+.ord-timeline { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: var(--space-2) 0 0; list-style: none; }
+.ord-step { position: relative; display: flex; flex-direction: column; align-items: center; gap: var(--space-2); min-width: 0; color: var(--muted); font-size: var(--text-xs); text-align: center; }
+.ord-step::before { content: ''; position: absolute; top: 11px; left: -50%; right: 50%; height: 2px; background: var(--line-strong); }
+.ord-step:first-child::before { display: none; }
+.ord-step.is-done::before, .ord-step.is-current::before { background: var(--accent); }
+.ord-step-dot { position: relative; z-index: 1; display: grid; place-items: center; flex: none; width: 24px; height: 24px; border: 2px solid var(--line-strong); border-radius: 50%; background: var(--surface); color: #fff; }
+.ord-step.is-done .ord-step-dot { border-color: var(--accent); background: var(--accent); }
+.ord-step.is-current .ord-step-dot { border-color: var(--accent); background: var(--surface); box-shadow: 0 0 0 4px var(--accent-soft); }
+.ord-step.is-current .ord-step-dot::after { content: ''; width: 8px; height: 8px; border-radius: 50%; background: var(--accent); }
+.ord-step.is-attention .ord-step-dot { border-color: var(--cta); box-shadow: 0 0 0 4px #fde3dd; }
+.ord-step.is-attention .ord-step-dot::after { background: var(--cta); }
+.ord-step.is-current .ord-step-label { color: var(--ink); font-weight: 600; }
+.ord-step.is-done .ord-step-label { color: var(--ink-hover); }
+.ord-step-label { overflow-wrap: anywhere; line-height: 1.25; }
+
+/* Payment: method and status as label/value rows, then the one action */
+.ord-facts { display: flex; flex-direction: column; gap: var(--space-2); margin: 0; }
+.ord-facts > div { display: flex; align-items: center; justify-content: space-between; gap: var(--space-3); }
+.ord-facts dt { color: var(--muted); font-size: var(--text-sm); }
+.ord-facts dd { margin: 0; min-width: 0; font-weight: 600; text-align: right; overflow-wrap: anywhere; }
+.ord-pay-button { display: inline-flex; align-items: center; justify-content: center; height: 48px; padding: 0 var(--space-5); border: 0; border-radius: var(--radius-full); background: var(--cta); color: var(--cta-ink); font-size: var(--text-md); font-weight: 600; box-shadow: 0 1px 2px #1c211d26; transition: background-color .15s, transform .1s; }
+.ord-pay-button:hover:not(:disabled) { background: var(--cta-hover); }
+.ord-pay-button:active:not(:disabled) { transform: translateY(1px); }
+.ord-pay-button:disabled { opacity: .7; cursor: progress; }
+
+/* Receipt: lines as the store formats them; groups open to their breakdown */
+.ord-receipt { display: flex; flex-direction: column; margin: 0; padding: 0; list-style: none; }
+.ord-receipt-row, .ord-receipt-nested-row { display: flex; align-items: baseline; justify-content: space-between; gap: var(--space-3); padding: var(--space-2) 0; border-bottom: 1px dashed var(--line); font-size: var(--text-sm); }
+.ord-receipt-row > span:first-child, .ord-receipt-nested-row > span:first-child, .ord-receipt-toggle > span:first-of-type { min-width: 0; overflow-wrap: anywhere; }
+.ord-receipt-nested-row { color: var(--ink-hover); padding-left: var(--space-3); }
+.ord-receipt-value { flex: none; color: var(--ink); font-variant-numeric: tabular-nums; text-align: right; }
+.ord-receipt-toggle { display: flex; align-items: center; gap: var(--space-2); width: 100%; padding: var(--space-2) 0; border: 0; border-bottom: 1px dashed var(--line); background: none; color: var(--ink); font-size: var(--text-sm); text-align: left; }
+.ord-receipt-toggle:hover { color: var(--accent); }
+.ord-receipt-toggle > span:first-of-type { flex: 1; }
+.ord-receipt-nested { display: flex; flex-direction: column; margin: 0; padding: 0 0 var(--space-2); list-style: none; }
+.ord-receipt-nested[hidden] { display: none; }
+.ord-chevron { flex: none; transition: transform .15s; }
+.ord-chevron.is-open { transform: rotate(180deg); }
+.ord-receipt-total { display: flex; align-items: baseline; justify-content: space-between; gap: var(--space-3); margin-top: var(--space-2); padding-top: var(--space-3); border-top: 1px solid var(--line-strong); font-weight: 600; }
+.ord-receipt-total strong { font-family: var(--font-display); font-size: var(--text-xl); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+@media (max-width: 599px) {
+  .ord-head h1, .ord-state h1 { font-size: var(--text-xl); }
+  .ord-state h2 { font-size: var(--text-lg); }
+  .ord-panel { padding: var(--space-4); }
+  .ord-card { padding: var(--space-4); }
+  .ord-card-link { font-size: var(--text-md); }
+  .ord-step { font-size: var(--text-xs); }
+  .ord-step-dot { width: 22px; height: 22px; }
+  .ord-step::before { top: 10px; }
+}

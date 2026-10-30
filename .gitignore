@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+node_modules/
+dist-test/
+test-results/
+playwright-report/
+/public/images/*
+!/public/images/*/
+/public/images/*/*
+!/public/images/*/manifest.json
+# Site photos (hero, promo, story band, banners) ship with the code; only the product photo library stays out.
+!/public/images/site/
+!/public/images/site/*

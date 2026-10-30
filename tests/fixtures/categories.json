@@ -1,0 +1,1291 @@
+{
+  "categories": [
+    {
+      "id": "td5exd4spl6nplprp6",
+      "name": "Accessories",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "td5exd4spl6nplprp6"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792208052_2021bd02-01c4-49bc-86a1-76031416b19c.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/accessories-40498"
+      }
+    },
+    {
+      "id": "6x1ofzra8muuzosl27",
+      "name": "Apparel",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "6x1ofzra8muuzosl27"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792208103_3c7f7f82-b771-479f-a1b0-d5d67bcf6b24.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/apparel-46763"
+      }
+    },
+    {
+      "id": "xclm5ncjrmwr9tlkxn",
+      "name": "Beverage",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "xclm5ncjrmwr9tlkxn"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792208023_aeee9931-0df3-40cc-979f-576585fe3534.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/beverage-46758"
+      }
+    },
+    {
+      "id": "5msqfcziw7phr6ygz0",
+      "name": "Edibles",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "5msqfcziw7phr6ygz0"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792207758_ea5e9e2c-2e1c-4ced-bed0-35ff44960300.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/edibles-40493"
+      }
+    },
+    {
+      "id": "k4itylpt08lsofnlvc",
+      "name": "Flower",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "k4itylpt08lsofnlvc"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792207776_e48fc925-410d-4fe0-b011-daa8b831b6fe.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/flower-40494"
+      }
+    },
+    {
+      "id": "0czalrkqys4qsdturc",
+      "name": "Gift Card",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "0czalrkqys4qsdturc"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792208034_a4e17fab-d5f1-4947-b6c6-330a2c3a25a5.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/gift-card-40499"
+      }
+    },
+    {
+      "id": "qw5xnut45752k7bdkl",
+      "name": "Hemp",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "qw5xnut45752k7bdkl"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792208221_f0a03f9c-459b-4263-849e-3db31bb115a4.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/hemp-46765"
+      }
+    },
+    {
+      "id": "u92167yq03b5ubcka6",
+      "name": "Oral",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "u92167yq03b5ubcka6"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792207986_86f3b14d-62ff-4a39-9729-17f2d73186e5.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/oral-46762"
+      }
+    },
+    {
+      "id": "48tdzolfjk8ipj6z9i",
+      "name": "Pet",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "48tdzolfjk8ipj6z9i"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792208207_650c1be7-7fcb-4a09-a5e3-d33129def69b.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/pet-46764"
+      }
+    },
+    {
+      "id": "aydwlhwawpdng1o0cc",
+      "name": "Pre-Rolls",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "aydwlhwawpdng1o0cc"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792208065_96af7f89-492b-442b-a0dc-0a3d61efdcfc.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/pre-rolls-40497"
+      }
+    },
+    {
+      "id": "035a7mkqys4qsdturc",
+      "name": "Tinctures",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "035a7mkqys4qsdturc"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792208001_ab8bcae0-3a51-4a21-8de4-05f74e06ea16.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/tinctures-46761"
+      }
+    },
+    {
+      "id": "cfxyre8wyxevp1hykb",
+      "name": "Topicals",
+      "filters": [
+        {
+          "key": "category",
+          "values": [
+            "cfxyre8wyxevp1hykb"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "source": "https://media.example.com/store/demo/1792208012_ed84dde6-a381-4a2f-97f1-bb500fdcf1df.png"
+        }
+      ],
+      "children": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/topicals-46760"
+      }
+    }
+  ],
+  "details": {
+    "td5exd4spl6nplprp6": {
+      "category": {
+        "id": "td5exd4spl6nplprp6",
+        "name": "Accessories",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "td5exd4spl6nplprp6"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792208052_2021bd02-01c4-49bc-86a1-76031416b19c.png"
+          }
+        ],
+        "children": [
+          {
+            "id": "1r7lt5w6zgkqhp5a4e",
+            "name": "Pipes",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "1r7lt5w6zgkqhp5a4e"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/pipes-46750"
+            }
+          },
+          {
+            "id": "v45hf0d15b77zgdxhp",
+            "name": "Storage",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "v45hf0d15b77zgdxhp"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/storage-46751"
+            }
+          },
+          {
+            "id": "bgp0r1w1antwpb9yap",
+            "name": "Rolling",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "bgp0r1w1antwpb9yap"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/rolling-46752"
+            }
+          },
+          {
+            "id": "1rhlt5w6zgkqhp5a4e",
+            "name": "Grinders",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "1rhlt5w6zgkqhp5a4e"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/grinders-46753"
+            }
+          },
+          {
+            "id": "5a2qhaziw7phr6ygz0",
+            "name": "Devices",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "5a2qhaziw7phr6ygz0"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/devices-46754"
+            }
+          },
+          {
+            "id": "2l7jf26xlywrdeq5ke",
+            "name": "Batteries",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "2l7jf26xlywrdeq5ke"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/batteries-46755"
+            }
+          },
+          {
+            "id": "r0j56ftcnfcxdgzqf3",
+            "name": "Cleaning",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "r0j56ftcnfcxdgzqf3"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/cleaning-46756"
+            }
+          },
+          {
+            "id": "ep341swwlx7fhsbo8r",
+            "name": "Lighters",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "ep341swwlx7fhsbo8r"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/lighters-46757"
+            }
+          }
+        ],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/accessories-40498"
+        }
+      }
+    },
+    "6x1ofzra8muuzosl27": {
+      "category": {
+        "id": "6x1ofzra8muuzosl27",
+        "name": "Apparel",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "6x1ofzra8muuzosl27"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792208103_3c7f7f82-b771-479f-a1b0-d5d67bcf6b24.png"
+          }
+        ],
+        "children": [
+          {
+            "id": "891uh3vhbj7d2t1aoy",
+            "name": "Shirts",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "891uh3vhbj7d2t1aoy"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/shirts-46767"
+            }
+          },
+          {
+            "id": "w7wca0ktigorxvd0bj",
+            "name": "Hats",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "w7wca0ktigorxvd0bj"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/hats-46766"
+            }
+          }
+        ],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/apparel-46763"
+        }
+      }
+    },
+    "xclm5ncjrmwr9tlkxn": {
+      "category": {
+        "id": "xclm5ncjrmwr9tlkxn",
+        "name": "Beverage",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "xclm5ncjrmwr9tlkxn"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792208023_aeee9931-0df3-40cc-979f-576585fe3534.png"
+          }
+        ],
+        "children": [
+          {
+            "id": "89luh3vhbj7d2t1aoy",
+            "name": "Beverage Infusions",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "89luh3vhbj7d2t1aoy"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/beverage-infusions-46768"
+            }
+          },
+          {
+            "id": "stk73qmf8qudwtxwcd",
+            "name": "Powders",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "stk73qmf8qudwtxwcd"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/powders-46771"
+            }
+          },
+          {
+            "id": "7enfoq6vrxvcwcf621",
+            "name": "Drinks",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "7enfoq6vrxvcwcf621"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/drinks-46769"
+            }
+          },
+          {
+            "id": "obb9rqpptlvbg1vbdg",
+            "name": "Shots",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "obb9rqpptlvbg1vbdg"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/shots-46772"
+            }
+          },
+          {
+            "id": "j6lpk7ukcuy0v1ayfh",
+            "name": "Mixes",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "j6lpk7ukcuy0v1ayfh"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/mixes-46770"
+            }
+          },
+          {
+            "id": "a7fwqkwawpdng1o0cc",
+            "name": "Syrups",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "a7fwqkwawpdng1o0cc"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/syrups-46773"
+            }
+          }
+        ],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/beverage-46758"
+        }
+      }
+    },
+    "5msqfcziw7phr6ygz0": {
+      "category": {
+        "id": "5msqfcziw7phr6ygz0",
+        "name": "Edibles",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "5msqfcziw7phr6ygz0"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792207758_ea5e9e2c-2e1c-4ced-bed0-35ff44960300.png"
+          }
+        ],
+        "children": [
+          {
+            "id": "k2aty8pt08lsofnlvc",
+            "name": "COMMON SUBCATEGORY",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "k2aty8pt08lsofnlvc"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/common-subcategory-44194"
+            }
+          },
+          {
+            "id": "qarxnut45752k7bdkl",
+            "name": "Candy",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "qarxnut45752k7bdkl"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/candy-46729"
+            }
+          },
+          {
+            "id": "wsaca0ktigorxvd0bj",
+            "name": "Gummies",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "wsaca0ktigorxvd0bj"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/gummies-46730"
+            }
+          },
+          {
+            "id": "868uh3vhbj7d2t1aoy",
+            "name": "Cooking",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "868uh3vhbj7d2t1aoy"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/cooking-46731"
+            }
+          },
+          {
+            "id": "8o1uh3vhbj7d2t1aoy",
+            "name": "Chocolate",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "8o1uh3vhbj7d2t1aoy"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/chocolate-46732"
+            }
+          },
+          {
+            "id": "7thfoq6vrxvcwcf621",
+            "name": "Chews",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "7thfoq6vrxvcwcf621"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/chews-46733"
+            }
+          },
+          {
+            "id": "ji1pk7ukcuy0v1ayfh",
+            "name": "Baked Goods",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "ji1pk7ukcuy0v1ayfh"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/baked-goods-46734"
+            }
+          }
+        ],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/edibles-40493"
+        }
+      }
+    },
+    "k4itylpt08lsofnlvc": {
+      "category": {
+        "id": "k4itylpt08lsofnlvc",
+        "name": "Flower",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "k4itylpt08lsofnlvc"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792207776_e48fc925-410d-4fe0-b011-daa8b831b6fe.png"
+          }
+        ],
+        "children": [
+          {
+            "id": "asiwlywawpdng1o0cc",
+            "name": "COMMON SUBCATEGORY",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "asiwlywawpdng1o0cc"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/common-subcategory-44195"
+            }
+          },
+          {
+            "id": "xw1m5ncjrmwr9tlkxn",
+            "name": "Ground",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "xw1m5ncjrmwr9tlkxn"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/ground-46722"
+            }
+          },
+          {
+            "id": "zuv22mjs9510wipke7",
+            "name": "Shake",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "zuv22mjs9510wipke7"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/shake-46723"
+            }
+          },
+          {
+            "id": "c7qyre8wyxevp1hykb",
+            "name": "Trim",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "c7qyre8wyxevp1hykb"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/trim-46724"
+            }
+          },
+          {
+            "id": "0gra7mkqys4qsdturc",
+            "name": "Mixed Buds",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "0gra7mkqys4qsdturc"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/mixed-buds-46725"
+            }
+          },
+          {
+            "id": "uoz167yq03b5ubcka6",
+            "name": "Infused",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "uoz167yq03b5ubcka6"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/infused-46726"
+            }
+          },
+          {
+            "id": "6quofzra8muuzosl27",
+            "name": "Flower",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "6quofzra8muuzosl27"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/flower-46727"
+            }
+          },
+          {
+            "id": "4pkdzolfjk8ipj6z9i",
+            "name": "Small Flower",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "4pkdzolfjk8ipj6z9i"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/small-flower-46728"
+            }
+          }
+        ],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/flower-40494"
+        }
+      }
+    },
+    "0czalrkqys4qsdturc": {
+      "category": {
+        "id": "0czalrkqys4qsdturc",
+        "name": "Gift Card",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "0czalrkqys4qsdturc"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792208034_a4e17fab-d5f1-4947-b6c6-330a2c3a25a5.png"
+          }
+        ],
+        "children": [],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/gift-card-40499"
+        }
+      }
+    },
+    "qw5xnut45752k7bdkl": {
+      "category": {
+        "id": "qw5xnut45752k7bdkl",
+        "name": "Hemp",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "qw5xnut45752k7bdkl"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792208221_f0a03f9c-459b-4263-849e-3db31bb115a4.png"
+          }
+        ],
+        "children": [],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/hemp-46765"
+        }
+      }
+    },
+    "u92167yq03b5ubcka6": {
+      "category": {
+        "id": "u92167yq03b5ubcka6",
+        "name": "Oral",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "u92167yq03b5ubcka6"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792207986_86f3b14d-62ff-4a39-9729-17f2d73186e5.png"
+          }
+        ],
+        "children": [
+          {
+            "id": "mgsb6diowwqtnucs9j",
+            "name": "Capsules",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "mgsb6diowwqtnucs9j"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/capsules-46774"
+            }
+          },
+          {
+            "id": "yhtghkxzkl3fumh1qr",
+            "name": "Tablets",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "yhtghkxzkl3fumh1qr"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/tablets-46775"
+            }
+          }
+        ],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/oral-46762"
+        }
+      }
+    },
+    "48tdzolfjk8ipj6z9i": {
+      "category": {
+        "id": "48tdzolfjk8ipj6z9i",
+        "name": "Pet",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "48tdzolfjk8ipj6z9i"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792208207_650c1be7-7fcb-4a09-a5e3-d33129def69b.png"
+          }
+        ],
+        "children": [],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/pet-46764"
+        }
+      }
+    },
+    "aydwlhwawpdng1o0cc": {
+      "category": {
+        "id": "aydwlhwawpdng1o0cc",
+        "name": "Pre-Rolls",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "aydwlhwawpdng1o0cc"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792208065_96af7f89-492b-442b-a0dc-0a3d61efdcfc.png"
+          }
+        ],
+        "children": [
+          {
+            "id": "u9c167yq03b5ubcka6",
+            "name": "Singles",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "u9c167yq03b5ubcka6"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/singles-46746"
+            }
+          },
+          {
+            "id": "feivx2t9kxrkg2jxqk",
+            "name": "Packs",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "feivx2t9kxrkg2jxqk"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/packs-46747"
+            }
+          },
+          {
+            "id": "l5sixske24ep32eh73",
+            "name": "Infused Singles",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "l5sixske24ep32eh73"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/infused-singles-46748"
+            }
+          },
+          {
+            "id": "hdrn08v78zvawm7z3d",
+            "name": "Infused Packs",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "hdrn08v78zvawm7z3d"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/infused-packs-46749"
+            }
+          }
+        ],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/pre-rolls-40497"
+        }
+      }
+    },
+    "035a7mkqys4qsdturc": {
+      "category": {
+        "id": "035a7mkqys4qsdturc",
+        "name": "Tinctures",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "035a7mkqys4qsdturc"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792208001_ab8bcae0-3a51-4a21-8de4-05f74e06ea16.png"
+          }
+        ],
+        "children": [
+          {
+            "id": "3kzsza9e9v97p5ig5e",
+            "name": "Tinctures",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "3kzsza9e9v97p5ig5e"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/tinctures-46777"
+            }
+          },
+          {
+            "id": "ixa6743bwbske8uoi1",
+            "name": "Sprays",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "ixa6743bwbske8uoi1"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/sprays-46776"
+            }
+          }
+        ],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/tinctures-46761"
+        }
+      }
+    },
+    "cfxyre8wyxevp1hykb": {
+      "category": {
+        "id": "cfxyre8wyxevp1hykb",
+        "name": "Topicals",
+        "filters": [
+          {
+            "key": "category",
+            "values": [
+              "cfxyre8wyxevp1hykb"
+            ]
+          }
+        ],
+        "images": [
+          {
+            "source": "https://media.example.com/store/demo/1792208012_ed84dde6-a381-4a2f-97f1-bb500fdcf1df.png"
+          }
+        ],
+        "children": [
+          {
+            "id": "d1rz75kuqokes943ky",
+            "name": "Balms",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "d1rz75kuqokes943ky"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/balms-46778"
+            }
+          },
+          {
+            "id": "90sr8mygtmbkpl3ca4",
+            "name": "Lotions",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "90sr8mygtmbkpl3ca4"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/lotions-46779"
+            }
+          },
+          {
+            "id": "ury167yq03b5ubcka6",
+            "name": "Skincare",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "ury167yq03b5ubcka6"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/skincare-46782"
+            }
+          },
+          {
+            "id": "gnp3qi4p5xe9h6k6hz",
+            "name": "Serums",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "gnp3qi4p5xe9h6k6hz"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/serums-46781"
+            }
+          },
+          {
+            "id": "po08hxv98v0qk69548",
+            "name": "Patches",
+            "filters": [
+              {
+                "key": "subcategory",
+                "values": [
+                  "po08hxv98v0qk69548"
+                ]
+              }
+            ],
+            "images": [],
+            "children": [],
+            "links": {
+              "web": "https://shop.example.com/maui/recreational/menu/patches-46780"
+            }
+          }
+        ],
+        "links": {
+          "web": "https://shop.example.com/maui/recreational/menu/topicals-46760"
+        }
+      }
+    }
+  }
+}

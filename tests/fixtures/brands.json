@@ -1,0 +1,314 @@
+{
+  "items": [
+    {
+      "id": "ixk6u37wbske8uoi1",
+      "name": "Haleakala Harvest",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "ixk6u37wbske8uoi1"
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nerkwalazk1of1c9er",
+      "name": "High Supply",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "nerkwalazk1of1c9er"
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "e804ywxlx7fhsbo8r",
+      "name": "Honu Bay Labs",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "e804ywxlx7fhsbo8r"
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "wf8cvk8igorxvd0bj",
+      "name": "Kai Botanicals",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "wf8cvk8igorxvd0bj"
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "a7uwfwhwpdng1o0cc",
+      "name": "Koa Creek Co.",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "a7uwfwhwpdng1o0cc"
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "qcnxptk5752k7bdkl",
+      "name": "Kona Kine Farms",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "qcnxptk5752k7bdkl"
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "j6mp4uqcuy0v1ayfh",
+      "name": "Lehua Leaf Co.",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "j6mp4uqcuy0v1ayfh"
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "4ubdjlujk8ipj6z9i",
+      "name": "Maui Mana",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "4ubdjlujk8ipj6z9i"
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "n26kbldzk1of1c9er",
+      "name": "Ohana Organics",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "n26kbldzk1of1c9er"
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "0sza9kpys4qsdturc",
+      "name": "Pua Provisions",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "0sza9kpys4qsdturc"
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "tp5e847pl6nplprp6",
+      "name": "Ulu Growers",
+      "filters": [
+        {
+          "key": "brand",
+          "values": [
+            "tp5e847pl6nplprp6"
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "details": {
+    "ixk6u37wbske8uoi1": {
+      "brand": {
+        "id": "ixk6u37wbske8uoi1",
+        "name": "Haleakala Harvest",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "ixk6u37wbske8uoi1"
+            ]
+          }
+        ],
+        "images": []
+      }
+    },
+    "nerkwalazk1of1c9er": {
+      "brand": {
+        "id": "nerkwalazk1of1c9er",
+        "name": "High Supply",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "nerkwalazk1of1c9er"
+            ]
+          }
+        ],
+        "images": []
+      }
+    },
+    "e804ywxlx7fhsbo8r": {
+      "brand": {
+        "id": "e804ywxlx7fhsbo8r",
+        "name": "Honu Bay Labs",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "e804ywxlx7fhsbo8r"
+            ]
+          }
+        ],
+        "images": []
+      }
+    },
+    "wf8cvk8igorxvd0bj": {
+      "brand": {
+        "id": "wf8cvk8igorxvd0bj",
+        "name": "Kai Botanicals",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "wf8cvk8igorxvd0bj"
+            ]
+          }
+        ],
+        "images": []
+      }
+    },
+    "a7uwfwhwpdng1o0cc": {
+      "brand": {
+        "id": "a7uwfwhwpdng1o0cc",
+        "name": "Koa Creek Co.",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "a7uwfwhwpdng1o0cc"
+            ]
+          }
+        ],
+        "images": []
+      }
+    },
+    "qcnxptk5752k7bdkl": {
+      "brand": {
+        "id": "qcnxptk5752k7bdkl",
+        "name": "Kona Kine Farms",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "qcnxptk5752k7bdkl"
+            ]
+          }
+        ],
+        "images": []
+      }
+    },
+    "j6mp4uqcuy0v1ayfh": {
+      "brand": {
+        "id": "j6mp4uqcuy0v1ayfh",
+        "name": "Lehua Leaf Co.",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "j6mp4uqcuy0v1ayfh"
+            ]
+          }
+        ],
+        "images": []
+      }
+    },
+    "4ubdjlujk8ipj6z9i": {
+      "brand": {
+        "id": "4ubdjlujk8ipj6z9i",
+        "name": "Maui Mana",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "4ubdjlujk8ipj6z9i"
+            ]
+          }
+        ],
+        "images": []
+      }
+    },
+    "n26kbldzk1of1c9er": {
+      "brand": {
+        "id": "n26kbldzk1of1c9er",
+        "name": "Ohana Organics",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "n26kbldzk1of1c9er"
+            ]
+          }
+        ],
+        "images": []
+      }
+    },
+    "0sza9kpys4qsdturc": {
+      "brand": {
+        "id": "0sza9kpys4qsdturc",
+        "name": "Pua Provisions",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "0sza9kpys4qsdturc"
+            ]
+          }
+        ],
+        "images": []
+      }
+    },
+    "tp5e847pl6nplprp6": {
+      "brand": {
+        "id": "tp5e847pl6nplprp6",
+        "name": "Ulu Growers",
+        "filters": [
+          {
+            "key": "brand",
+            "values": [
+              "tp5e847pl6nplprp6"
+            ]
+          }
+        ],
+        "images": []
+      }
+    }
+  }
+}

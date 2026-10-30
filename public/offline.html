@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#f3e8d6" />
+    <title>You’re offline</title>
+    <link rel="icon" href="hawaii.ico" />
+    <style>
+      :root { color-scheme: light; }
+      * { box-sizing: border-box; }
+      body { display: grid; min-height: 100vh; margin: 0; place-items: center; padding: 24px; background: #f3e8d6; color: #242a27; font-family: 'Source Sans 3', system-ui, -apple-system, 'Segoe UI', sans-serif; }
+      main { display: flex; flex-direction: column; align-items: center; gap: 12px; max-width: 360px; text-align: center; }
+      img { width: 72px; height: 72px; border-radius: 16px; }
+      h1 { margin: 8px 0 0; font-family: Fraunces, Georgia, serif; font-size: 28px; font-weight: 500; line-height: 1.2; }
+      p { margin: 0; color: #5a625c; font-size: 17px; line-height: 1.5; }
+      button { height: 48px; margin-top: 8px; padding: 0 24px; border: 0; border-radius: 999px; background: #073f46; color: #fff; font: inherit; font-weight: 600; cursor: pointer; }
+      button:hover { background: #052f34; }
+      button:focus-visible { outline: 3px solid #073f46; outline-offset: 3px; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <img src="icons/icon-192.png" alt="" width="72" height="72" />
+      <h1>You’re offline</h1>
+      <p>The menu needs a connection to show live prices and stock. Check your connection and try again.</p>
+      <button type="button" onclick="location.reload()">Try again</button>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,47 @@
+/* Product finder (/picker): one question per screen with large tappable answers, then the matches. */
+.pk-page { max-width: 960px; }
+.pk-loading { display: flex; align-items: center; gap: var(--space-2); color: var(--muted); }
+.pk-head { display: flex; flex-direction: column; gap: var(--space-2); margin-bottom: var(--space-5); }
+.pk-head .eyebrow { display: inline-flex; align-items: center; gap: 6px; color: var(--brand-ink); }
+.pk-hint { color: var(--muted); }
+.pk-progress { display: flex; gap: 6px; margin: var(--space-1) 0; padding: 0; list-style: none; }
+.pk-progress li { width: 28px; height: 4px; border-radius: var(--radius-full); background: var(--line-strong); }
+.pk-progress li.is-done { background: var(--accent); opacity: .55; }
+.pk-progress li.is-current { background: var(--accent); }
+
+.pk-options { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: var(--space-3); }
+.pk-option { position: relative; display: flex; align-items: center; gap: var(--space-3); min-height: 64px; padding: var(--space-3) var(--space-4); border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); color: var(--ink); text-align: left; transition: border-color .15s, background-color .15s, box-shadow .15s, transform .1s; }
+.pk-option:hover { border-color: var(--line-strong); background: var(--sunken); }
+.pk-option:active { transform: scale(.98); }
+.pk-option[aria-pressed='true'] { border-color: var(--accent); background: var(--accent-soft); box-shadow: inset 0 0 0 1px var(--accent); }
+.pk-option-image { flex: none; width: 44px; height: 44px; border-radius: 50%; object-fit: cover; background: var(--sunken); }
+.pk-option-icon { flex: none; display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: var(--bg); color: var(--accent); }
+.pk-option-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.pk-option-name { font-weight: 600; }
+.pk-option-note { color: var(--muted); font-size: var(--text-xs); }
+.pk-option-check { position: absolute; top: 8px; right: 8px; color: var(--accent); }
+
+/* Category answers are the first and biggest choice: picture tiles */
+.pk-options.is-category { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+.pk-options.is-category .pk-option { flex-direction: column; justify-content: center; min-height: 140px; text-align: center; }
+.pk-options.is-category .pk-option-image, .pk-options.is-category .pk-option-icon { width: 72px; height: 72px; }
+.pk-options.is-strength { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+
+.pk-actions { display: flex; align-items: center; justify-content: space-between; gap: var(--space-3); margin-top: var(--space-6); }
+.pk-actions-end { display: flex; gap: var(--space-2); }
+.pk-actions-end > * { height: 48px; padding: 0 var(--space-5); font-size: var(--text-md); }
+.pk-back { display: inline-flex; align-items: center; gap: 6px; }
+
+.pk-summary { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-2); margin: var(--space-1) 0 0; padding: 0; list-style: none; }
+.pk-summary .text-button { display: inline-flex; align-items: center; gap: 6px; }
+.pk-note { margin-bottom: var(--space-4); padding: var(--space-3) var(--space-4); border-radius: var(--radius-sm); background: var(--sunken); color: var(--ink-hover); font-size: var(--text-sm); }
+
+@media (max-width: 599px) {
+  .pk-options, .pk-options.is-strength { grid-template-columns: minmax(0, 1fr); }
+  .pk-options.is-category { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .pk-options.is-effect, .pk-options.is-flavor { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .pk-option { min-height: 56px; padding: var(--space-3); }
+  .pk-option-image, .pk-option-icon { width: 36px; height: 36px; }
+  /* Keep the step controls in reach at the bottom of the screen */
+  .pk-actions { position: sticky; bottom: 0; margin: var(--space-5) calc(var(--space-4) * -1) 0; padding: var(--space-3) var(--space-4); border-top: 1px solid var(--line); background: var(--bg); }
+}

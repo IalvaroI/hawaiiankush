@@ -1,0 +1,32 @@
+{
+  "stores": [
+    {
+      "id": "demostore0000001",
+      "name": "Hawaiian Kush",
+      "distanceInMiles": 0,
+      "options": {
+        "pickup": {
+          "enabled": true
+        },
+        "delivery": {
+          "enabled": true,
+          "zones": []
+        }
+      }
+    },
+    {
+      "id": "uv16yq03b5ubcka6",
+      "name": "Carvajal Store 2",
+      "distanceInMiles": 4245.446963004421,
+      "options": {
+        "pickup": {
+          "enabled": true
+        },
+        "delivery": {
+          "enabled": true,
+          "zones": []
+        }
+      }
+    }
+  ]
+}

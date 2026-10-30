@@ -1,0 +1,100 @@
+{
+  "atStore": {
+    "query": {
+      "latitude": 21.6415052,
+      "longitude": -158.0671269
+    },
+    "response": {
+      "delivery": {
+        "availability": "notAllowed",
+        "reason": "outOfZone"
+      }
+    }
+  },
+  "honolulu": {
+    "query": {
+      "latitude": 21.3069,
+      "longitude": -157.8583
+    },
+    "response": {
+      "delivery": {
+        "availability": "notAllowed",
+        "reason": "outOfZone"
+      }
+    }
+  },
+  "synthetic": {
+    "note": "Hand-written, not recorded: the live store has no zones. The mock answers \"available\" with these terms inside the circle.",
+    "zone": {
+      "center": {
+        "latitude": 21.5767,
+        "longitude": -158.129
+      },
+      "radiusKm": 8
+    },
+    "response": {
+      "delivery": {
+        "availability": "available",
+        "reason": null,
+        "terms": {
+          "policy": {
+            "fee": "5",
+            "amountForMinOrder": "25",
+            "amountForFreeDelivery": "100"
+          },
+          "schedule": [
+            {
+              "dayOfWeek": "monday",
+              "interval": {
+                "from": "10:00",
+                "to": "20:00"
+              }
+            },
+            {
+              "dayOfWeek": "tuesday",
+              "interval": {
+                "from": "10:00",
+                "to": "20:00"
+              }
+            },
+            {
+              "dayOfWeek": "wednesday",
+              "interval": {
+                "from": "10:00",
+                "to": "20:00"
+              }
+            },
+            {
+              "dayOfWeek": "thursday",
+              "interval": {
+                "from": "10:00",
+                "to": "20:00"
+              }
+            },
+            {
+              "dayOfWeek": "friday",
+              "interval": {
+                "from": "10:00",
+                "to": "20:00"
+              }
+            },
+            {
+              "dayOfWeek": "saturday",
+              "interval": {
+                "from": "10:00",
+                "to": "20:00"
+              }
+            },
+            {
+              "dayOfWeek": "sunday",
+              "interval": {
+                "from": "10:00",
+                "to": "20:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

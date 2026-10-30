@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "u5x1dsyq03b5ubcka6",
+      "name": "10% Off Everything",
+      "filters": [
+        {
+          "key": "promotion",
+          "values": [
+            "u5x1dsyq03b5ubcka6"
+          ]
+        }
+      ],
+      "schedule": "Sun/Thu-Sat",
+      "banners": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/discounts/10-off-everything-11994"
+      }
+    },
+    {
+      "id": "rwh5mstcnfcxdgzqf3",
+      "name": "Early Bird 3.5g",
+      "filters": [
+        {
+          "key": "promotion",
+          "values": [
+            "rwh5mstcnfcxdgzqf3"
+          ]
+        }
+      ],
+      "schedule": "Daily, 07:00 AM - 10:00 AM",
+      "banners": [],
+      "links": {
+        "web": "https://shop.example.com/maui/recreational/menu/discounts/early-bird-35g-12001"
+      }
+    }
+  ],
+  "totalItems": 2
+}
